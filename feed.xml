@@ -1,40 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Wilber Zada</title>
+    <description>Un sitio donde mezclo trabajo y pasión, con tips sobre desarrollo web y fotografía. La ayuda que necesitas para tu perfeccionamiento como profesional.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jun 2016 11:54:15 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Jun 2016 11:54:15 -0400</lastBuildDate>
+    <link>http://wilberzada.com/</link>
+    <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Aug 2016 10:08:29 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Aug 2016 10:08:29 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Etiqueta, organiza y selecciona tu mejor foto</title>
+        <description>&lt;p&gt;Finalmente, para los que hacen muchas fotos y luego no saben elegir cual es la mejor, ha llegado su solución. Tal y como dice el título, esa es la función principal de la aplicación The Roll desarrollada por EyeEm, la que muchos califican como la versión 2.0 del carrete o como debiera ser este.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Cada fotografía luego de ser analizada y puntuada muestra una serie de etiquetas muy útiles si planeas luego publicarla en la misma plataforma de EyeEm y aún más si planeas incluirla en la tienda de fotos de esta Red.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Pero eso no es todo, además posee un sistema de búsqueda basado en las etiquetas con las que, encontrar esa foto perdida que deseas publicar en las redes sociales ya no será un problema.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Si eres de los que usas Smartphone con sistema Android tienes que seguir esperando a que desarrollen para esta plataforma ya que actualmente la aplicación se encuentra disponible solo para iOS.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 27 Jun 2016 11:53:21 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/06/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/06/27/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</link>
+        <guid isPermaLink="true">http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</guid>
         
         
-        <category>jekyll</category>
+        <category>Aplicaciones</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Las fotos día a día con tu iPhone</title>
+        <description>&lt;p&gt;A pesar que otros smartphones poseen una mayor cantidad de megapíxeles en sus cámaras el iPhone ha sabido imponerse como el dispositivo más utilizado para hacer fotos en sitios como Flickr.&lt;/p&gt;
+
+&lt;p&gt;Lograr buenas fotografías no requiere invertir en un costoso equipo fotográfico y si conoces a fondo tu iPhone serás capaz de obtener un producto fotográfico increíble.&lt;/p&gt;
+
+&lt;p&gt;La cámara del iPhone siempre estará en tu bolsillo por lo que será tu principal opción para capturar las fotos diariamente. Conócela a fondo, todas sus características, atajos y opciones.&lt;/p&gt;
+
+&lt;p&gt;Lo que dice una foto es más importante a cómo fue creada. No te preocupes por la técnica o los recursos empleados siempre y cuando al final la foto cuente una historia.&lt;/p&gt;
+
+&lt;p&gt;Si realizas una fotografía de un lugar o un objeto en especial y el resultado obtenido no es el deseado, busca otro punto de vista, define el foco, la exposición y controla el balance blanco. Si todo esto aún no te convence prueba hacer la foto en diferentes horas del día o estaciones del año.&lt;/p&gt;
+
+&lt;p&gt;La práctica diaria y la experimentación llevan a la perfección, no dejes de hacer fotos todos los días, incluso aquello que pensabas que no proporcionaría ninguna historia puede sorprenderte.&lt;/p&gt;
+
+&lt;p&gt;Haz uso de las buenas prácticas de la composición, pero como todas las reglas estas también se hicieron para romperse. Crea tu propio estilo y disfruta la fotografía.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jun 2016 11:53:21 -0400</pubDate>
+        <link>http://wilberzada.com/blog/fotos-dia-dia-con-iphone</link>
+        <guid isPermaLink="true">http://wilberzada.com/blog/fotos-dia-dia-con-iphone</guid>
+        
+        
+        <category>Fotografía</category>
+        
+        <category>Móvil</category>
+        
+      </item>
+    
+      <item>
+        <title>Tips para hacer fotos en Cuba</title>
+        <description>&lt;p&gt;Cuba está ahora más de moda que antes y al parecer todo el mundo, o casi todos quieren visitarla. El Papa de la Iglesia Católica, El Presidente de los Estados Unidos, los legendarios Rolling Stones, Channel, incluso Michael Bay y sus Transformes entre otros, han hecho su estancia en esta isla tropical. Si está en tus planes incluirte en esta lista y te interesa la fotografía, aquí tienes algunos puntos que puedes tener en cuenta.&lt;/p&gt;
+
+&lt;p&gt;Lo primero que debes tener en mente y para que tu estancia sea más placentera es recordar que como isla tropical al fin las temperaturas son altas y el sol es bastante fuerte, por lo que asegúrate de incluir en tu kit fotográfico: sombrero o gorra de béisbol, gafas de sol, ropa que te cubra sin ser esta calurosa y zapatos cómodos que respiren y que te permitan caminar largos trechos, pues si quieres lograr estupendas fotos, tendrás que desandar las viejas calles de Cuba.&lt;/p&gt;
+
+&lt;p&gt;Las plazas, las calles estrechas, los edificios viejos, los negocios, y los cubanos en sí, son temas que encontrarás en lugares como La Habana Vieja o la ciudad de Trinidad en Sancti Spíritus. Las zonas históricas de cualquier villa fundada en Cuba por los españoles en el siglo XVI se convierten en espacios ricos para la fotografía. Si estas fotos además las haces (o conviertes) en blanco y negro, aumentarás mucho más su impacto.&lt;/p&gt;
+
+&lt;p&gt;La vida nocturna en Cuba, principalmente en La Habana es muy rica, por lo que genera una gran cantidad de fotografías. Recuerda que para fotos con poca iluminación es primordial realizarlas con un trípode y el Joby Gorillapod será muy útil ya que al ser pequeño es fácil de transportar.&lt;/p&gt;
+
+&lt;p&gt;No importa donde vayas en Cuba, la mayoría de las veces encontrarás algo interesante que fotografiar, y si visitas un restaurant privado o “paladar” como también se le conoce, además de disfrutar de la auténtica cocina cubana, comprobarás que la atmósfera en estos lugares es muy interesante para hacer fotos.&lt;/p&gt;
+
+&lt;p&gt;En las playas cuida la exposición de tus fotos, al ser lugares con mucha luz, esta puede exceder el rango dinámico de tu cámara en caso que uses un iPhone o cualquier otro Smartphone. Si usas uno de estos últimos dispositivos, ajusta primero el foco y luego la exposición.&lt;/p&gt;
+
+&lt;p&gt;Capturar el estilo de vida de los cubanos, los colores, texturas, construcciones (antiguas y modernas) las personas que habitan, incluso todo mezclado, te proporcionará una gran cantidad de fotos. Por lo tanto, asegúrate traer un dispositivo de almacenamiento lo suficientemente grande donde puedas realizar salvas de cada día de fotos y así no tener que borrar alguna fotografía. Incluye en tu equipaje una laptop o un macbook para poder descargar cada noche las fotos hechas. Puedes agregar también un disco duro externo para aumentar tu espacio de almacenamiento, así como un cargador portátil.&lt;/p&gt;
+
+&lt;p&gt;A la hora de recargar batería, la mayoría de las tomas de corriente son de 110 volt, algo que debes tener presente.
+Por último, si quieres publicar en Internet algunas de las fotos que vayas haciendo, podrás hacerlo (si deseas hacerlo durante el trayecto) conectándote a WIFI_ETECSA, una conexión que brinda ETECSA en los principales parques y zonas de Cuba. Para conectarte deberás adquirir un cupón con un usuario y contraseña con un tiempo máximo de 1 hora de conexión. Vale aclarar que este será válido mientras no se consuma todo el tiempo y podrá utilizarse en cualquier punto de acceso del país.&lt;/p&gt;
+
+&lt;p&gt;Ya que la mayoría del tiempo estarás sin conexión a Internet puedes instalar en tu iPhone aplicaciones de mapas offline como Maps.me con el cual podrás buscar diferentes lugares de interés.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 May 2016 00:00:00 -0400</pubDate>
+        <link>http://wilberzada.com/blog/tips-fotografia-en-cuba</link>
+        <guid isPermaLink="true">http://wilberzada.com/blog/tips-fotografia-en-cuba</guid>
+        
+        
+        <category>Fotografía</category>
+        
+        <category>Móvil,</category>
+        
+        <category>Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>Una guía para ir de cero a héroe en la fotografía móvil</title>
+        <description>&lt;p&gt;La fotografía con smartphones lleva desde hace unos años cautivando cada vez más seguidores, y es que la velocidad con que se hace las fotos, se editan y se publican en Internet con estos dispositivos, le ha quitado terreno a las cámaras clásicas.&lt;/p&gt;
+
+&lt;p&gt;Todo este proceso fotográfico es bien sencillo, cualquiera puede hacer fotos… pero si quieres que tu trabajo destaque sobre los demás, lo simple puede tornarse “complejo”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;iPhoneografía paso a paso&lt;/strong&gt;, una guía en la que conocerás más a fondo la aplicación Cámara que trae instalado el iPhone, con trucos que quizás no conocías y técnicas con las que tus fotos serán más atractivas que antes. Fundamentos básicos de la fotografía, uso de diferentes aplicaciones cámaras con 
+nuevas características, así como el uso de editores de fotos dentro del mismo iPhone, la utilización de accesorios y otros contenidos son abarcados en este libro.&lt;/p&gt;
+
+&lt;p&gt;Aunque como dispositivo principal se use un iPhone, también para los usuarios de Android, las técnicas y conceptos explicados aquí pueden ser usados por ustedes, así como muchas de las aplicaciones que se mencionan existen para ese sistema operativo.&lt;/p&gt;
+
+&lt;p&gt;Este libro es para aquel que le gusta la fotografía en sí, en especial para aquello que han convertido su iPhone en su principal herramienta fotográfica, tanto para tomar las fotos como para editarlas.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 May 2016 00:00:00 -0400</pubDate>
+        <link>http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil</link>
+        <guid isPermaLink="true">http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil</guid>
+        
+        
+        <category>Sin</category>
+        
+        <category>Categoría</category>
         
       </item>
     
