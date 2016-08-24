@@ -17,65 +17,56 @@
   src: local('Roboto Bold'), local('Roboto-Bold'), url(../fonts/d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
 }
 @font-face {
-    font-family: 'icomoon';
-    src:    url('../fonts/icomoon.eot?rr7gyp');
-    src:    url('../fonts/icomoon.eot?rr7gyp#iefix') format('embedded-opentype'),
-        url('../fonts/icomoon.ttf?rr7gyp') format('truetype'),
-        url('../fonts/icomoon.woff?rr7gyp') format('woff'),
-        url('../fonts/icomoon.svg?rr7gyp#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?f89xo8');
+  src:  url('../fonts/icomoon.eot?f89xo8#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?f89xo8') format('truetype'),
+    url('../fonts/icomoon.woff?f89xo8') format('woff'),
+    url('../fonts/icomoon.svg?f89xo8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-lents:before {
+  content: "\e901";
+}
 .icon-eyeem:before {
-    content: "\e900";
-}
-.icon-envelope:before {
-    content: "\f003";
+  content: "\e900";
 }
 .icon-google-plus:before {
-    content: "\f0d5";
-}
-.icon-camera:before {
-    content: "\e90f";
-}
-.icon-folder:before {
-    content: "\e930";
-}
-.icon-calendar:before {
-    content: "\e953";
-}
-.icon-facebook:before {
-    content: "\ea90";
-}
-.icon-instagram:before {
-    content: "\ea92";
-}
-.icon-twitter:before {
-    content: "\ea96";
+  content: "\f0d5";
 }
 .icon-youtube:before {
-    content: "\ea9d";
+  content: "\f167";
 }
-.icon-github:before {
-    content: "\eab0";
+.icon-camera:before {
+  content: "\e90f";
 }
-.icon-linkedin:before {
-    content: "\eaca";
+.icon-calendar:before {
+  content: "\e953";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
 }
 
 /***************    NORMALICE    ***************/
@@ -403,16 +394,16 @@ ul.main-menu li:hover p {
     color: #fff;
 }
 ul.main-menu li#blog:hover {
-    background: #1979a9;
+    background: #476ec1;
 }
 ul.main-menu li#tienda:hover {
-    background: #81561f;
+    background: #6fbd65;
 }
 ul.main-menu li#autor:hover {
-    background: #d5a749;
+    background: #fec63a;
 }
 ul.main-menu li#email:hover {
-    background: #198786;
+    background: #a62e60;
 }
 ul.main-menu li p {
     margin: 0 15px 0;
@@ -537,8 +528,12 @@ ul.main-menu li p {
     padding: 0;
     margin-bottom: 20px;
 }
+.col-ft .loop-post .featured-img,
+.col-im .loop-post .featured-img {
+    height: 320px;
+}
 .loop-post .featured-img {
-    height: 230px;
+    height: 200px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -585,7 +580,11 @@ ul.main-menu li p {
 .extract {
     margin: 30px 10px 15px;
 }
-
+@media (max-width: 680px) {
+    .col-im .loop-post .featured-img {
+        height: 200px;
+    }
+}
 
 /***** POST *****/
 .post .featured-img {
@@ -629,10 +628,8 @@ ul.share-btn li {
     margin: 0 auto 42px;
     width: 35px;
     height: 35px;
-    /*border-radius: 100px;*/
     text-align: center;
     box-shadow: none;
-    /*line-height: 100px;*/
     color: #fff;
     text-decoration: none;
 }
@@ -653,6 +650,25 @@ ul.share-btn li {
 .share-btn li#google-plus a.btn:hover {
     background: transparent;
 }
+.post-navigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+.post-navigation a {
+  display: block;
+  float: left;
+  margin: 1em 0;
+  padding: 5px;
+  background: #ac9680;
+  color: #333;
+}
+.post-navigation .next {
+  float: right;
+}
+
+
 
 /***** FOOTER *****/
 footer {
