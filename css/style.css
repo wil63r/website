@@ -30,6 +30,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
+  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -58,6 +59,12 @@
 }
 .icon-calendar:before {
   content: "\e953";
+}
+.icon-arrow-right:before {
+  content: "\ea42";
+}
+.icon-arrow-left:before {
+  content: "\ea44";
 }
 .icon-facebook:before {
   content: "\ea90";
@@ -667,7 +674,19 @@ ul.share-btn li {
 .post-navigation .next {
   float: right;
 }
-
+.post-content img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.post-content img.align-left {
+	float: left;
+    margin: 10px 10px 10px 0;
+}
+.post-content img.align-right {
+	float: right;
+    margin: 10px 0 10px 10px;
+}
 
 
 /***** FOOTER *****/
