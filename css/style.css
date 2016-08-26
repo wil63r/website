@@ -697,6 +697,10 @@ footer {
     margin-left: 140px;
     text-align: center;
     color: #999;
+    line-height: 1.1;
+}
+footer span {
+    font-size: 12px;
 }
 @media (max-width: 680px) {
     footer {
