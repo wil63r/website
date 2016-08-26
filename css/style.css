@@ -584,6 +584,9 @@ ul.main-menu li p {
     font-size: 16px;
     line-height: 1.4;
 }
+.col-im p.extract {
+    margin: 15px 10px 20px;
+}
 .extract {
     margin: 30px 10px 15px;
 }
