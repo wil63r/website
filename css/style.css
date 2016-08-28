@@ -30,7 +30,6 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -530,7 +529,8 @@ ul.main-menu li p {
     flex-wrap: wrap;
 }
 .loop-post,
-.post {
+.post,
+.post-navigation {
     background: #fff;
     padding: 0;
     margin-bottom: 20px;
@@ -677,21 +677,38 @@ ul.share-btn li {
     margin: 12px 0;
 }
 .post-navigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
+    display: flex;
 }
-.post-navigation a {
-  display: block;
-  float: left;
-  margin: 1em 0;
-  padding: 5px;
-  background: #ac9680;
-  color: #333;
+.post-navigation p {
+    margin: 0 10px 15px;
+    font-size: 18px;
+    line-height: 1;
+}
+.post-navigation .prev, 
+.post-navigation .next {
+    padding: 15px 0;
+    width: 50%;
+}
+.post-navigation a p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #333;
+    width: 300px;
+    text-align: center;
+}
+.post-navigation .next a p {
+    float: right;
 }
 .post-navigation .next {
-  float: right;
+    text-align: right;
+}
+.post-navigation img {
+    width: 300px;
+    height: auto;
+}
+.post-navigation hr {
+    display: none;
+    border-color: #eaeaea;
 }
 @media (max-width: 680px) {
     .post-content img {
@@ -699,6 +716,31 @@ ul.share-btn li {
 	    margin-left: auto;
 	    margin-right: auto;
         width: 100%;
+    }
+}
+@media (max-width: 320px) {
+    .post-navigation {
+        display: inherit;
+    }
+    .post-navigation .prev,
+    .post-navigation .next {
+        width: auto;
+    }
+    .post-navigation img {
+        width: 100%;
+    }
+    .post-navigation a p {
+        width: auto;
+    }
+    .post-navigation .next {
+        text-align: initial;
+    }
+    .post-navigation .next a p {
+        float: none;
+    }
+    .post-navigation hr {
+        display: block;
+        width: 90%;
     }
 }
 
