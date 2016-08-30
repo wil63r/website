@@ -372,7 +372,8 @@ header .brand span {
     font-size: 2.6em;
 }
 .brand .icon-lents {
-    color: #ac9680;
+    color: #626262;
+    vertical-align: middle;
 }
 header .brand h1 {
     line-height: 1.2;
@@ -666,11 +667,11 @@ ul.share-btn li {
 	margin-left: auto;
 	margin-right: auto;
 }
-.post-content img.align-left {
+img.align-left {
 	float: left;
     margin: 10px 10px 10px 0;
 }
-.post-content img.align-right {
+img.align-right {
 	float: right;
     margin: 10px 0 10px 10px;
 }
@@ -850,19 +851,60 @@ footer span {
     }
 }
 
-/***** ERROR PAGE *****/
-.error-page {
+/***** TIENDA *****/
+/*.tienda {
+    padding: 5px 15px 20px;
+}*/
+.tienda h2 {
+    display: none;
+}
+.info h3 {
     text-align: center;
-    margin-bottom: 50px;
+    margin: 0 auto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1.15;
 }
-.error-page h2 {
-    font-size: 180px;
-    margin: 50px 0 10px;
-    letter-spacing: -10px;
+.info p {
+    margin: 30px auto;
+    font-size: 16px;
 }
+.tienda .libro {
+    padding: 20px 15px 20px;
+    background: #f9f26e;
+}
+.tienda .libro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 320px;
+}
+.section-tienda {
+    width: 50%;
+    display: inline-block;
+}
+.tienda .fotos {
+    padding: 40px 15px 20px;
+    background: #353535;
+    color: #fff;
+}
+.section-align {
+    float: right;
+}
+
+.fotos p {
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 300;
+    text-align: center;
+}
+
 
 
 /***** USEFULL *****/
+.show-first {
+    order: -1;
+}
 .clearfix:before,
 .clearfix:after {
     display: table;
@@ -878,6 +920,7 @@ footer span {
     text-align: center;
     padding: 10px 0;
     line-height: 1.25;
+    font-size: 16px;
 }
 .btn:hover {
     box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.4);
