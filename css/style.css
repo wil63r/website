@@ -1,15 +1,4 @@
-@font-face {
-  font-family: 'Roboto'; 
-  font-style: normal; 
-  font-weight: 300; 
-  src: local('Roboto Light'), local('Roboto-Light'), url(../fonts/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'); 
-}
-@font-face {
-  font-family: 'Roboto'; 
-  font-style: normal; 
-  font-weight: 400; 
-  src: local('Roboto'), local('Roboto-Regular'), url(../fonts/CWB0XYA8bzo0kSThX0UTuA.woff2) format('woff2'); 
-}
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400';
 @font-face {
   font-family: 'icomoon';
   src:  url('../fonts/icomoon.eot?f89xo8');
@@ -354,12 +343,14 @@ header .brand {
     text-align: center;
     padding-top: 20px;
 }
-header .brand span {
-    font-size: 2.6em;
-}
-.brand .icon-lents {
-    color: #626262;
-    vertical-align: middle;
+header .brand .logo {
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 75px;
+    padding: 0;
+    margin: 0 0 5px;
 }
 header .brand h1 {
     line-height: 1.2;
