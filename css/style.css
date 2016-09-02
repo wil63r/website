@@ -16,7 +16,7 @@ audio,canvas,progress,video{display:inline-block}
 audio:not([controls]){display:none;height:0}
 progress{vertical-align:baseline}
 [hidden],template{display:none}
-a{background-color:transparent;-webkit-text-decoration-skip:objects;color:#ac9680;font-weight:700}
+a{background-color:transparent;-webkit-text-decoration-skip:objects;color:#ac9680;font-weight:bold}
 a:active,a:hover{outline-width:0}
 abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
 b,strong{font-weight:bolder}
@@ -105,85 +105,6 @@ ul.main-menu,ul.social{text-align:center;display:none}}
 @media (max-width:680px){.col-ft{width:100%}
 .col-im,.col-st{width:50%}}
 @media (max-width:440px){.col-ft,.col-im,.col-md,.col-st{width:100%}}
-.loop{display:flex;flex-wrap:wrap}
-.loop-post,.page,.post,.post-navigation{background:#fff;padding:0;margin-bottom:20px}
-.col-ft .loop-post .featured-img,.col-im .loop-post .featured-img{height:320px}
-.loop-post .featured-img{height:200px;width:100%;overflow:hidden;position:relative}
-.loop-post .featured-img img{width:100%;height:100%}
-.loop-post:hover .featured-img img{transform:scale(1.1);filter:blur(3px);-webkit-filter:blur(3px);-moz-filter:blur(3px);-o-filter:blur(3px);transition:all .4s}
-.loop-post .info{background:rgba(0,0,0,.5);position:absolute;z-index:1;bottom:0;width:100%}
-.date,.info h2{color:#fff;line-height:1.3;text-align:center;font-weight:400}
-.date{text-transform:uppercase}
-.icon-calendar{margin-right:5px}
-.loop-post h2{margin:10px 10px 0}
-.col-ft p.extract{margin:15px 10px 20px;font-size:16px;line-height:1.4}
-.col-im p.extract{margin:15px 10px 20px}
-.extract{margin:30px 10px 15px}
-@media (max-width:680px){.col-im .loop-post .featured-img{height:200px}}
-.post .featured-img{height:320px;width:100%;overflow:hidden;position:relative}
-.overlay{height:100%;padding:calc(160px - 2em) 50px 0;background-color:rgba(0,0,0,.6)}
-.title{font-size:2.5em;line-height:1.3;font-weight:400}
-.post .featured-img h2{margin:0;text-align:center;color:#fff;margin-bottom:25px}
-.post-content{padding:5px 15px 20px}
-ul.share-btn{list-style:none;font-size:16px;text-align:center;padding:20px 0 0}
-ul.share-btn li{display:inline-flex;margin:0 5px;font-size:16px}
-.share-btn li a.btn{margin:0 auto 42px;width:35px;height:35px;text-align:center;box-shadow:none;color:#fff;text-decoration:none}
-.share-btn li a.btn:hover{background:0 0}
-.share-btn li#facebook a{background:#4267b2}
-.share-btn li#twitter a{background:#1da1f2}
-.share-btn li#google-plus a{background:#d34836}
-.share-btn li#facebook a.btn:hover,.share-btn li#google-plus a.btn:hover,.share-btn li#twitter a.btn:hover{background:0 0}
-.post-content img{display:block;margin-left:auto;margin-right:auto}
-img.align-left{float:left;margin:10px 10px 10px 0}
-img.align-right{float:right;margin:10px 0 10px 10px}
-.post-content h4{margin:12px 0}
-#disqus_thread{padding:0 20px 10px}
-.post-navigation{display:flex}
-.post-navigation p{margin:0 10px 15px;font-size:18px;line-height:1}
-.post-navigation .next,.post-navigation .prev{padding:15px 0;width:50%}
-.post-navigation a p{font-size:15px;font-weight:400;color:#333;width:300px;text-align:center}
-.post-navigation .next a p{float:right}
-.post-navigation .next{text-align:right}
-.post-navigation img{width:300px;height:auto}
-.post-navigation hr{display:none;border-color:#eaeaea}
-@media (max-width:680px){.post-content img{display:block;margin-left:auto;margin-right:auto;width:100%}}
-@media (max-width:320px){.post-navigation{display:inherit}
-.post-navigation .next,.post-navigation .prev{width:auto}
-.post-navigation img{width:100%}
-.post-navigation a p{width:auto}
-.post-navigation .next{text-align:initial}
-.post-navigation .next a p{float:none}
-.post-navigation hr{display:block;width:90%}}
-.page h2{margin:0 auto;padding-top:20px;text-align:center}
-.promo-web{display:block;margin-left:auto;margin-right:auto;position:relative;width:25%;padding:20px 0}
-.promo-web img{display:block;box-shadow:0 1px 12px rgba(0,0,0,.2);border-radius:4px;transition:all 320ms ease-in-out}
-.promo-web img.left{left:0}
-.promo-web img.right{right:0}
-.promo-web img.center{margin:0 auto;position:relative;z-index:32;width:75%;height:auto}
-.promo-web img.left,.promo-web img.right{position:absolute;top:32px;z-index:30;width:66.66%;height:auto}
-.promo-web:hover img.left{transform-origin:center center;transform:rotate(-7deg) translate(-50px,-30px)}
-.promo-web:hover img.right{transform-origin:center center;transform:rotate(7deg) translate(50px,-30px)}
-.promo-web:hover img.center{transform:scale(1.1)}
-.page-project{width:320px;margin-right:auto;margin-left:auto;color:#000;font-weight:400;margin-bottom:25px}
-.page .btn{background:#ff0}
-.page .photo-gallery{list-style:none;display:inline-flex;margin:0;padding:0}
-.page .photo-gallery img{width:75%}
-@media (max-width:680px){.promo-web{width:50%}
-.page-project{width:100%}}
-@media (max-width:680px){.page .photo-gallery{display:initial}
-.page .photo-gallery img{width:100%;padding:10px 0}}
-footer{margin-left:140px;text-align:center;color:#999;line-height:1.1}
-footer span{font-size:12px}
-@media (max-width:680px){footer{margin-left:inherit}}
-.tienda h2{display:none}
-.info h3{text-align:center;margin:0 auto;font-size:36px;font-weight:400;line-height:1.15}
-.info p{margin:30px auto;font-size:16px}
-.tienda .libro{padding:20px 15px;background:#f9f26e}
-.tienda .libro img{display:block;margin-left:auto;margin-right:auto;max-width:320px}
-.section-tienda{width:50%;display:inline-block}
-.tienda .fotos{padding:40px 15px 20px;background:#353535;color:#fff}
-.section-align{float:right}
-.fotos p{font-size:24px;line-height:1.2;font-weight:300;text-align:center}
 .show-first{order:-1}
 .clearfix:after,.clearfix:before{display:table;content:" "}
 .clearfix:after{clear:both}
@@ -192,3 +113,6 @@ footer span{font-size:12px}
 .circle-email{display:block;margin:0 auto 42px;width:100px;height:100px;background:red;border-radius:100px;text-align:center;line-height:100px;color:#fff;text-decoration:none;transition:all 220ms}
 .circle-email:hover{transform:scale(1.2)}
 .circle-email span{vertical-align:middle;font-size:26px}
+footer{margin-left:140px;text-align:center;color:#999;line-height:1.1}
+footer span{font-size:12px}
+@media (max-width:680px){footer{margin-left:inherit}}
