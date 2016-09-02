@@ -33,3 +33,5 @@ img.align-right{float:right;margin:10px 0 10px 10px}
 .post-navigation .next{text-align:initial}
 .post-navigation .next a p{float:none}
 .post-navigation hr{display:block;width:90%}}
+.vidcontainer{float:none;clear:both;width:100%;position:relative;padding-bottom:56.25%;padding-top:25px;height:0;}
+.vidcontainer iframe, .vidcontainer object, .vidcontainer embed {position:absolute;top:0;left:0;width:100%;height:100%;}
