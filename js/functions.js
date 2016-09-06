@@ -1,1 +1,5 @@
-$(function(){$(".menu-toggle").on("click",function(){$(".nav-bar").toggleClass("open")})});
+$(function () {
+  $('.menu-toggle').on('click', function () {
+    $('.nav-bar').toggleClass('open');
+  });
+});

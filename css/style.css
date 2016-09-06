@@ -83,12 +83,12 @@ ul.main-menu li p{margin:0 15px;line-height:40px;font-weight:400}
 .nav-bar ul.social li:hover .icon-google-plus{color:#d34836;transition:color .2s ease-in-out}
 .nav-bar ul.social li:hover .icon-instagram{color:#b53395;transition:color .2s ease-in-out}
 .nav-bar ul.social li:hover .icon-eyeem{color:#a19b83;transition:color .2s ease-in-out}
-@media (max-width:680px){.full-content{flex-direction:column;margin-left:inherit}
+@media (max-width:680px){.full-content{flex-direction:column;margin-left:inherit;}header .brand .logo {display: none;}
 header{width:auto}
 header .nav-bar{width:auto;position:static}
 header .brand{padding:0}
 header .brand span{font-size:1em}
-header .brand h1{font-size:2.2em;display:inline-flex;padding:7px}
+header .brand h1{margin-left:50px;font-size:2.2em;display:inline-flex;padding:7px}
 header .nav-bar .menu-toggle{display:block}
 ul.main-menu,ul.social{text-align:center;display:none}}
 .open ul.main-menu,.open ul.social{display:block!important}
