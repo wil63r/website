@@ -6,8 +6,8 @@
 </description>
     <link>http://wilberzada.com/</link>
     <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Sep 2016 15:24:13 -0300</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 15:24:13 -0300</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2016 15:49:34 -0300</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 15:49:34 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -73,7 +73,8 @@
 
 &lt;p&gt;Las plazas, las calles estrechas, los edificios viejos, los negocios, y los cubanos en sí, son temas que encontrarás en lugares como La Habana Vieja o la ciudad de Trinidad en Sancti Spíritus. Las zonas históricas de cualquier villa fundada en Cuba por los españoles en el siglo XVI se convierten en espacios ricos para la fotografía. Si estas fotos además las haces (o conviertes) en blanco y negro, aumentarás mucho más su impacto.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../img/post/joby-gorillapod.jpg&quot; alt=&quot;Trípode Joby Gorillapod&quot; class=&quot;align-right&quot; /&gt; La vida nocturna en Cuba, principalmente en La Habana es muy rica, por lo que genera una gran cantidad de fotografías. Recuerda que para fotos con poca iluminación es primordial realizarlas con un trípode y el &lt;em&gt;Joby Gorillapod&lt;/em&gt; será muy útil ya que al ser pequeño es fácil de transportar.&lt;/p&gt;
+&lt;div style=&quot;width: 450px&quot; class=&quot;caption align-right&quot;&gt;&lt;img src=&quot;../img/post/joby-gorillapod.jpg&quot; /&gt;&lt;p class=&quot;caption-text&quot;&gt;El trípode Joby Gorillapod es por sus características uno de los accesorios más utilizados por fotógrafos con iPhone.&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;La vida nocturna en Cuba, principalmente en La Habana es muy rica, por lo que genera una gran cantidad de fotografías. Recuerda que para fotos con poca iluminación es primordial realizarlas con un trípode y el &lt;em&gt;Joby Gorillapod&lt;/em&gt; será muy útil ya que al ser pequeño es fácil de transportar.&lt;/p&gt;
 
 &lt;p&gt;No importa donde vayas en Cuba, la mayoría de las veces encontrarás algo interesante que fotografiar, y si visitas un restaurant privado o “paladar” como también se le conoce, además de disfrutar de la auténtica cocina cubana, comprobarás que la atmósfera en estos lugares es muy interesante para hacer fotos.&lt;/p&gt;
 
@@ -87,7 +88,10 @@
 
 &lt;p&gt;Ya que la mayoría del tiempo estarás sin conexión a Internet puedes instalar en tu iPhone aplicaciones de mapas offline como &lt;a href=&quot;http://maps.me&quot; target=&quot;_blank&quot;&gt;Maps.me&lt;/a&gt; con el cual podrás buscar diferentes lugares de interés.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../img/post/calle-trinidad.jpg&quot; alt=&quot;Calle empedrada de Trinidad, Cuba&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;width: 800px&quot; class=&quot;caption center-caption&quot;&gt;
+    &lt;img src=&quot;../img/post/calle-trinidad.jpg&quot; /&gt;
+    &lt;p class=&quot;caption-text&quot;&gt;Las calles empedradas de Trinidad, en el centro de Cuba, son fotografiadas tanto por locales como por extranjeros.&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 30 May 2016 00:00:00 -0300</pubDate>
         <link>http://wilberzada.com/blog/tips-fotografia-en-cuba</link>

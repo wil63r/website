@@ -58,21 +58,17 @@
     background: #f1f1f1;
     line-height: 18px;
     margin-bottom: 0;
-    padding: 5px 5px 0 5px;
     text-align: center;
-}
 }
 .caption img {
     border: 0 none;
 }
 .caption .caption-text {
-    padding: 5px 0;
     margin: 0;
     color: #666;
     font-size: 12px;
     font-style: italic;
     line-height: 18px;
-    text-align: left;
     background: #ececec;
     padding: 10px 20px;
 }
@@ -84,9 +80,9 @@ ul.share-btn li{display:inline-flex;margin:0 5px;font-size:16px}
 .share-btn li#twitter a{background:#1da1f2}
 .share-btn li#google-plus a{background:#d34836}
 .share-btn li#facebook a.btn:hover,.share-btn li#google-plus a.btn:hover,.share-btn li#twitter a.btn:hover{background:0 0}
-.post-content img{display:block;margin-left:auto;margin-right:auto}
-img.align-left{float:left;margin:10px 10px 10px 0}
-img.align-right{float:right;margin:10px 0 10px 10px}
+.post-content img, .center-caption{display:block;margin-left:auto;margin-right:auto}
+.align-left{float:left;margin:10px 10px 10px 0}
+.align-right{float:right;margin:10px 0 10px 10px}
 .post-content h4{margin:12px 0}
 #disqus_thread{padding:0 20px 10px}
 
