@@ -6,8 +6,8 @@
 </description>
     <link>http://wilberzada.com/</link>
     <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Sep 2016 16:16:04 -0300</pubDate>
-    <lastBuildDate>Wed, 07 Sep 2016 16:16:04 -0300</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2016 16:26:21 -0300</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2016 16:26:21 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -63,7 +63,10 @@
 
 &lt;p&gt;Pero eso no es todo, además posee un sistema de búsqueda basado en las etiquetas con las que, encontrar esa foto perdida que deseas publicar en las redes sociales ya no será un problema.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../img/post/screen-theroll.jpg&quot; alt=&quot;Capturas de pantalla de la aplicación TheRoll&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;width: 800px&quot; class=&quot;caption center-caption&quot;&gt;
+    &lt;img src=&quot;../img/post/screen-theroll.jpg&quot; /&gt;
+    &lt;p class=&quot;caption-text&quot;&gt;Capturas de pantalla de la aplicación TheRoll&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Si eres de los que usas Smartphone con sistema Android tienes que seguir esperando a que desarrollen para esta plataforma ya que actualmente la aplicación se encuentra disponible solo para &lt;a href=&quot;https://itunes.apple.com/us/app/roll-automatically-organize/id1051300668&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;.&lt;/p&gt;
 
