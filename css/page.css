@@ -21,9 +21,17 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+
+.progress-bar-container{width:55%;height:25px;position:relative;background-color:#ccc;margin-bottom:15px}
+.progressbar{background-color:#1c8bc3;height:100%;position:absolute;line-height:inherit}
+.progressbar-text{color:#fff;padding-left:15px;font-size:16px}
+
+
 @media (max-width:680px){
     .promo-web{width:50%}
 .page-project{width:100%}
+.progress-bar-container{width:100%;}
 .vidcontainer{float:none;clear:both;width:100%;position:relative;padding-bottom:56.25%;padding-top:25px;height:0;}
 .vidcontainer iframe, .vidcontainer object, .vidcontainer embed {position:absolute;top:0;left:0;width:100%;height:100%;}
 }
@@ -37,4 +45,5 @@
 .tienda .fotos{padding:40px 15px 20px;background:#353535;color:#fff}
 .section-align{float:right}
 .fotos p{font-size:24px;line-height:1.2;font-weight:300;text-align:center}
+.page img {width: 100%}
 }
