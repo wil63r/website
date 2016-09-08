@@ -1,7 +1,9 @@
 .page{background:#fff;padding:0;margin-bottom:20px;}
 .post-content{padding:5px 15px 20px}
 .page h2{margin:0 auto;padding-top:20px;text-align:center}
-.promo-web{display:block;margin-left:auto;margin-right:auto;position:relative;width:25%;padding:20px 0}
+.align-left{float:left;margin:10px 10px 10px 0}
+.align-right{float:right;margin:10px 0 10px 10px}
+.promo-web{display:block;margin-left:auto;margin-right:auto;position:relative;width:30%;padding:20px 0}
 .promo-web img{display:block;box-shadow:0 1px 12px rgba(0,0,0,.2);border-radius:4px;transition:all 320ms ease-in-out}
 .promo-web img.left{left:0}
 .promo-web img.right{right:0}
@@ -12,12 +14,10 @@
 .promo-web:hover img.center{transform:scale(1.1)}
 .page-project{width:320px;margin-right:auto;margin-left:auto;color:#000;font-weight:400;margin-bottom:25px}
 .page .btn{background:#ff0}
-.page .photo-gallery{list-style:none;display:inline-flex;margin:0;padding:0}
-.page .photo-gallery img{width:75%}
+
 @media (max-width:680px){.promo-web{width:50%}
 .page-project{width:100%}}
 @media (max-width:680px){.page .photo-gallery{display:initial}
-.page .photo-gallery img{width:100%;padding:10px 0}}
 .tienda h2{display:none}
 .info h3{text-align:center;margin:0 auto;font-size:36px;font-weight:400;line-height:1.15}
 .info p{margin:30px auto;font-size:16px}
