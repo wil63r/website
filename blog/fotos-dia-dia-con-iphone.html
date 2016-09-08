@@ -136,7 +136,7 @@
   </div>
 
   <div class="post-content" itemprop="articleBody">
-    <p>A pesar que otros smartphones poseen una mayor cantidad de megapíxeles en sus cámaras el iPhone ha sabido imponerse como el dispositivo más utilizado para hacer fotos en sitios como <a href="http://flickr.com">Flickr</a>.</p>
+    <p>A pesar que otros Smartphones poseen una mayor cantidad de megapíxeles en sus cámaras el iPhone ha sabido imponerse como el dispositivo más utilizado para hacer fotos en sitios como <a href="http://flickr.com" target="_blank">Flickr</a>.</p>
 
 <p>Lograr buenas fotografías no requiere invertir en un costoso equipo fotográfico y si conoces a fondo tu iPhone serás capaz de obtener un producto fotográfico increíble.</p>
 
@@ -149,7 +149,6 @@
 <p>La práctica diaria y la experimentación llevan a la perfección, no dejes de hacer fotos todos los días, incluso aquello que pensabas que no proporcionaría ninguna historia puede sorprenderte.</p>
 
 <p>Haz uso de las buenas prácticas de la composición, pero como todas las reglas estas también se hicieron para romperse. Crea tu propio estilo y disfruta la fotografía.</p>
-
 
   </div>
 
@@ -205,8 +204,14 @@
   
 </footer>
       <script src="../js/jquery-2.2.3.min.js"></script>
-  <script src="../js/functions.js"></script>
   <script id="dsq-count-scr" src="//wilberzada.disqus.com/count.js" async></script>
+  <script>
+    $(function () {
+    $('.menu-toggle').on('click', function () {
+        $('.nav-bar').toggleClass('open');
+      });
+    });
+  </script>
 </body>
 
 </html>

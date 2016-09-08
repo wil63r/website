@@ -97,7 +97,7 @@
     <div class="section-tienda section-align info">
         <h3>iPhoneografía paso a paso</h3>
 
-        <p>Fundamentos básicos de la fotografía, uso de diferentes aplicaciones de captura, editores, accesorios y buenas prácticas en la iPhoneografía son algunas de las cosas que te esperan en el libro. Verás que para obtener fotos increíbles no será necesario una costosa cámara DSLR y su equipo. Además comprobarás que la mejor cámara es aquella que siempre tienes en tu bolsillo.</p>
+        <p>Fundamentos básicos de la fotografía, uso de diferentes aplicaciones de captura, editores, accesorios y buenas prácticas en la iPhoneografía son algunas de las cosas que te esperan en el libro. Verás que para obtener fotos increíbles no será necesario una costosa cámara DSLR y su equipo. Además, comprobarás que la mejor cámara es aquella que siempre tienes en tu bolsillo.</p>
 
         <a class="btn page-project" href="https://leanpub.com/iphoneografiapasoapaso/" target="_blank">Adquiere tu copia</a>
     </div>
@@ -125,8 +125,14 @@
   
 </footer>
       <script src="../js/jquery-2.2.3.min.js"></script>
-  <script src="../js/functions.js"></script>
   <script id="dsq-count-scr" src="//wilberzada.disqus.com/count.js" async></script>
+  <script>
+    $(function () {
+    $('.menu-toggle').on('click', function () {
+        $('.nav-bar').toggleClass('open');
+      });
+    });
+  </script>
 </body>
 
 </html>
