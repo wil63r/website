@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wilberzada.com/blog/accesorios-fotos-con-iphone</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/accesorios-fotos-con-iphone</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/fotos-raw-en-ios10</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/fotos-raw-en-ios10</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/fotografia-nocturna-con-smartphone</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/fotografia-nocturna-con-smartphone</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/lo-nuevo-de-apple-para-fotografia-con-iphone</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/lo-nuevo-de-apple-para-fotografia-con-iphone</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/fotos-dia-dia-con-iphone</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/fotos-dia-dia-con-iphone</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/tips-fotografia-en-cuba</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/tips-fotografia-en-cuba</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/blog/guia-cero-a-heroe-fotografia-movil</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   
   
   
   <url>
-    <loc>http://wilberzada.com/autor/</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/autor/</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>http://wilberzada.com/feed.xml</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/feed.xml</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
   </url>
   
   
   
   <url>
-    <loc>http://wilberzada.com/</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
   </url>
   
   
@@ -75,8 +75,15 @@
   
   
   <url>
-    <loc>http://wilberzada.com/tienda/</loc>
-    <lastmod>2016-10-11T09:45:40-03:00</lastmod>
+    <loc>http://localhost:4000/tienda/</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/blog/page2/</loc>
+    <lastmod>2016-11-10T16:35:18-05:00</lastmod>
   </url>
   
   
