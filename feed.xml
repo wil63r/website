@@ -6,9 +6,52 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Nov 2016 17:57:32 -0500</pubDate>
-    <lastBuildDate>Tue, 29 Nov 2016 17:57:32 -0500</lastBuildDate>
+    <pubDate>Wed, 30 Nov 2016 09:20:11 -0500</pubDate>
+    <lastBuildDate>Wed, 30 Nov 2016 09:20:11 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Fotografía macro con iPhone sin lentes incorporados</title>
+        <description>&lt;p&gt;La macro fotografía es uno de los estilos más difíciles de lograr con el iPhone debido a que tanto el lente como el software de la aplicación nativa “cámara” no están diseñados para eso. Generalmente para fotografiar esos diminutos elementos se utiliza &lt;a href=&quot;/blog/accesorios-fotos-con-iphone&quot;&gt;lentes incorporados como los “Moments” o los “Olloclip”&lt;/a&gt;, los cuales requieren una inversión, que tal vez no tenías pensado realizar, o quizás no planeas hacer.&lt;/p&gt;
+
+&lt;p&gt;En esta publicación te mostraré 4 alternativas para hacer fotos macro sin la utilidad de alguno de estos lentes.&lt;/p&gt;
+
+&lt;p&gt;Lo primero es ubicar el iPhone en un trípode o en alguna base donde puedas manipularlo sin correr el riesgo de que se mueva y quede la fotografía desenfocada. Los auriculares que trae el propio iPhone te serán igual de mucha ayuda, ya que estos permiten tomar las fotos al presionar el botón de &lt;strong&gt;volumen +&lt;/strong&gt;, y de esta manera evitar tocar la pantalla.&lt;/p&gt;
+
+&lt;p&gt;Una vez resuelto lo anterior la primera opción que propongo es usar la aplicación &lt;a href=&quot;#&quot;&gt;Camera Plus&lt;/a&gt;. Esta aplicación permite de manera sencilla definir si será una foto macro, basta con tocar la pantalla para definir el objetivo y en la interfaz aparecerá un icono de &lt;strong&gt;+&lt;/strong&gt;, que al tocarlo nos mostrarán tres opciones: NORMAL (que estará seleccionada), LEJOS y MACRO. Una vez seleccionada la opción (Macro), la imagen se ampliará hasta que los pequeños detalles sean visibles, dando la posibilidad de definir con mayor exactitud el objetivo de la foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/macro-foto-cameraplus.jpg&quot; alt=&quot;Foto macro con la aplicación Camera Plus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La segunda opción es una aplicación dentro del grupo &lt;em&gt;Imprescindibles&lt;/em&gt; de la AppStore. La cantidad de funciones que brinda &lt;a href=&quot;#&quot;&gt;Camera+&lt;/a&gt; la han convertido en una de las preferidas por la mayoría de los fotógrafos con iPhone. Esta cámara además de permitir al usuario definir manualmente el foco, la exposición, manipular el balance de blancos, permite además hacer fotos macro. Para activar esta opción se ha de tocar en el icono de &lt;strong&gt;+&lt;/strong&gt; que está justo al lado del botón de capturar, mostrará diferentes modalidades, así como el icono de MACRO definido por una florecita. Al activar esta modalidad igual que Camera Plus se ampliará la imagen hasta que los pequeños detalles sean visibles. En el modo macro se mantienen todas las opciones que están en el modo normal (Foco y exposición manual, balance de blancos personalizado, etc.).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/macro-foto-camera+.jpg&quot; alt=&quot;Foto macro con la aplicación Camera+&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La última aplicación a la que haré referencia estuvo olvidada dentro de las tantas aplicaciones que he descargado alguna vez hasta la salida de iOS 10, la cual, con sus nuevas características volvió a estar dentro de mis elegidas. &lt;a href=&quot;#&quot;&gt;ProShot&lt;/a&gt; es una aplicación que ha pasado “desapercibida” en toda la avalancha mediática entre aplicaciones de este tipo y es que ademas de todas las funciones que brinda (entre ellas la macro fotografía) hace fotos en &lt;a href=&quot;/blog/fotos-raw-en-ios10&quot;&gt;formato RAW&lt;/a&gt;. Dejando a un lado esta característica y volviendo al tema que nos toca, ProShot no brinda la opción de hacer las macro fotos de manera rápida y sencilla. Encima del botón de captura hay una línea curva que si se desliza hacia la izquierda nos llevará completamente hasta este modo. Esta barra nos permite definir manualmente que tal cerca tenemos nuestro objetivo, dándonos así un mayor control sobre la fotografía.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/macro-foto-proshot.jpg&quot; alt=&quot;Foto macro con la aplicación ProShot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La cuarta y última forma de la que haré referencia para hacer fotos macro es bien sencilla. Quizás en casa tengamos una pequeña lupa la que nos servirá perfectamente para llevar a cabo nuestra misión. Basta con ampliar con la lupa lo que queremos fotografiar y hacer la foto a través del cristal de aumento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/macro-foto-lupa.jpg&quot; alt=&quot;iPhone visto con una lupa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Estas son algunas alternativas para realizar fotos macro con el iPhone sin el uso de lentes incorporados, si conoces alguna otra aplicación u otra manera, coméntala y compártela aquí.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/macro-fotos-iphone-sin-lentes</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/macro-fotos-iphone-sin-lentes</guid>
+        
+        
+        <category>Fotografía</category>
+        
+        <category>Móvil,</category>
+        
+        <category>Tips,</category>
+        
+        <category>Guías,</category>
+        
+        <category>Aplicaciones</category>
+        
+      </item>
     
       <item>
         <title>Accesorios para hacer fotos con tu iPhone</title>
