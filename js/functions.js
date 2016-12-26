@@ -14,7 +14,7 @@ $(function() {
   var feed = new Instafeed({
     get: 'user',
     sortBy: 'random',
-    limit: '12',
+    limit: '18',
     userId: '1574668298',
     accessToken: '1574668298.f6097ab.4c9f0dee55a547e3a7aedbefba42dd01',
     clientId: 'f6097aba6ca44311a57712308fae63c3',
