@@ -6,8 +6,19 @@
 </description>
     <link>http://wilberzada.com</link>
     <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jun 2017 22:15:30 -0400</pubDate>
-    <lastBuildDate>Mon, 05 Jun 2017 22:15:30 -0400</lastBuildDate>
+    <pubDate>Wed, 07 Jun 2017 13:06:31 -0400</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2017 13:06:31 -0400</lastBuildDate>
+    
+      <item>
+        <title>Fotografía destacada: Ciruelas</title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic perspiciatis magnam cumque error, odit veniam, unde eum illum neque eligendi nemo ullam magni.</description>
+        <pubDate>Tue, 06 Jun 2017 00:00:00 -0400</pubDate>
+        <link>http://wilberzada.com/blog/foto-pato-loco</link>
+        
+        
+        <category>Foto</category>
+        
+      </item>
     
       <item>
         <title>Niebla en las fotos con iPhone</title>
@@ -135,21 +146,6 @@
         <category>Fotografía</category>
         
         <category>Móvil</category>
-        
-      </item>
-    
-      <item>
-        <title>Tips para hacer fotos en Cuba</title>
-        <description>Cuba está ahora más de moda que antes, por lo que si planeas visitar la isla te interesa la fotografía, aquí tienes algunos tips a tener en cuenta.</description>
-        <pubDate>Mon, 30 May 2016 00:00:00 -0400</pubDate>
-        <link>http://wilberzada.com/blog/tips-fotografia-en-cuba</link>
-        
-        
-        <category>Fotografía</category>
-        
-        <category>Móvil,</category>
-        
-        <category>Tips</category>
         
       </item>
     
