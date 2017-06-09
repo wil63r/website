@@ -1,3 +1,28 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icon-img.eot?shlj7o');
+  src:  url('../fonts/icon-img.eot?shlj7o#iefix') format('embedded-opentype'),
+    url('../fonts/icon-img.ttf?shlj7o') format('truetype'),
+    url('../fonts/icon-img.woff?shlj7o') format('woff'),
+    url('../fonts/icon-img.svg?shlj7o#icon-img') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.icon-exposure:before {
+  content: "\e3af0";
+}
+.icon-iso:before {
+  content: "\ef150";
+}
+.icon-camera:before {
+  content: "\e90f3";
+}
+.icon-ajustes:before {
+  content: "\e463a";
+}
+.container {
+    padding: 10px 0 0;
+}
 .blogArticle {
 	background: #fff;
 	padding-bottom: 15px;
@@ -76,7 +101,24 @@
 .description {
 	padding: 0 15px;
 }
+.description ul {
+	padding: 0;
+	list-style: none;
+}
+.icons-info {
+	padding-right: 5px;
+	font-size: 20px;
+}
+.icon-camera,
+.icon-ajustes {
+	font-size: 18px;
+}
 
+hr.styled {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
 .content {
 	padding: 0;
 	margin-bottom: 20px;
