@@ -26,48 +26,48 @@
   
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/WebPage">
 	<header>
 		<div class="nav-bar">
 			<div class="brand">
-				 <a href="/">
+				<a href="/">
 				<div class="logo"></div>
 				<h1>Wilber Zada</h1>
 				</a>
 				<button class="menu-toggle">
-							<span></span>
+					<span></span>
 				</button>
 			</div>
 			<nav>
-				<ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" class="main-menu">
-					<li id="blog">
+				<ul class="main-menu">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="blog">
 						<a itemprop="url" href="/">
 							<p itemprop="name">Blog</p>
 						</a>
 					</li>
-					<li id="galeria">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="galeria">
 						<a itemprop="url" href="/galeria">
 							<p itemprop="name">Galer&iacute;a</p>
 						</a>
 					</li>
-					<li id="autor">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="autor">
 						<a itemprop="url" href="/autor">
 							<p itemprop="name">Autor</p>
 						</a>
 					</li>
-					<li id="desarrollo-web">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="desarrollo-web">
 						<a itemprop="url" href="/desarrollo-web">
 							<p itemprop="name">Desarrollo Web</p>
 						</a>
 					</li>
-					<li id="descargas">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="descargas">
 						<a itemprop="url" href="/descargas">
 							<p itemprop="name">Descargas</p>
 						</a>
 					</li>
 					<li id="email">
-						<a itemprop="url" href="mailto:wil63r@gmail.com">
-							<p itemprop="name">Contacto</p>
+						<a itemprop="email" href="mailto:wil63r@gmail.com">
+							<p>Contacto</p>
 						</a>
 					</li>
 				</ul>
@@ -86,7 +86,7 @@
 	<article class="blogArticle" itemscope itemtype="http://schema.org/BlogPosting">
 		<section class="featured-img" style="background: url(/img/ft-img/libro-fotos-iphone_post.jpg) no-repeat center; background-size: cover;">
 			<div class="overlayfImg">
-				<h2 class="title">Una guía para ir de cero a héroe en la fotografía móvil</h2>
+				<h2 itemprop=”headline” class="title">Una guía para ir de cero a héroe en la fotografía móvil</h2>
 				<ul class="share-btn">
     <li id="facebook">
         <a href="https://facebook.com/sharer.php?u=http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil" rel="nofollow" class="btn icon" target="_blank" title="Compartir en Facebook"><span class="icon-facebook"></span></a>
@@ -114,7 +114,7 @@
 		<section class="meta">
 			<ul>
 				<li class="post-autor">
-					<img src="/img/avatar.jpg" alt="Avatar autor"><span itemprop="author">Wilber Zada Rosendi</span>
+					<img src="/img/avatar.jpg" alt="Avatar autor"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" itemprop="author">Wilber Zada Rosendi</span></span>
 				</li>
 				<li class="date">
 					<p><span class="icon-calendar"></span>
@@ -147,7 +147,7 @@
 <p>Si te interesa este libro puedes adquirirlo GRATIS en la sección <a href="/descargas">Descargas</a>.</p>
 
 		</section>
-		  <div id="disqus_thread"></div>
+		  <div itemprop="comment" id="disqus_thread"></div>
   <script>
 
   var disqus_config = function () {
@@ -160,7 +160,7 @@
     (d.head || d.body).appendChild(s);
   })();
   </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
+  <noscript>Por favor, activa el JavaScript en tu navegador para ver los comentarios.</a></noscript> 
 	</article>
 	  <article class="morePost">
     <ul>

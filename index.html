@@ -27,48 +27,48 @@
   
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/WebPage">
 	<header>
 		<div class="nav-bar">
 			<div class="brand">
-				 <a href="/">
+				<a href="/">
 				<div class="logo"></div>
 				<h1>Wilber Zada</h1>
 				</a>
 				<button class="menu-toggle">
-							<span></span>
+					<span></span>
 				</button>
 			</div>
 			<nav>
-				<ul itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" class="main-menu">
-					<li id="blog">
+				<ul class="main-menu">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="blog">
 						<a itemprop="url" href="/">
 							<p itemprop="name">Blog</p>
 						</a>
 					</li>
-					<li id="galeria">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="galeria">
 						<a itemprop="url" href="/galeria">
 							<p itemprop="name">Galer&iacute;a</p>
 						</a>
 					</li>
-					<li id="autor">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="autor">
 						<a itemprop="url" href="/autor">
 							<p itemprop="name">Autor</p>
 						</a>
 					</li>
-					<li id="desarrollo-web">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="desarrollo-web">
 						<a itemprop="url" href="/desarrollo-web">
 							<p itemprop="name">Desarrollo Web</p>
 						</a>
 					</li>
-					<li id="descargas">
+					<li itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation" id="descargas">
 						<a itemprop="url" href="/descargas">
 							<p itemprop="name">Descargas</p>
 						</a>
 					</li>
 					<li id="email">
-						<a itemprop="url" href="mailto:wil63r@gmail.com">
-							<p itemprop="name">Contacto</p>
+						<a itemprop="email" href="mailto:wil63r@gmail.com">
+							<p>Contacto</p>
 						</a>
 					</li>
 				</ul>
@@ -83,110 +83,101 @@
 	</header>
     <div class="full-content">
             <section class="container">
-			<div class="loopGrid">
+			<div class="loopGrid" itemscope itemtype="http://schema.org/Blog">
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/foto-destacada-ciruelas"><h2>Fotografía destacada: Ciruelas</h2></a>
+							<a itemprop="url" href="/blog/foto-destacada-ciruelas"><h2 itemprop=”headline”>Fotografía destacada: Ciruelas</h2></a>
 						</div>
-						<img src="/img/ft-img/ciruelas.jpg" alt="ciruelas"/>
+						<img itemprop=”image” src="/img/ft-img/ciruelas.jpg" alt="ciruelas"/>
 					</div>
-					<p class="excerpt">Algunas amarillas, otras rojas... las ciruelas sin mucho orden, se prestan tanto para ser fotografiadas como para ser comidas.</p>
-				</div>
+					<p itemprop="description" class="excerpt">Algunas amarillas, otras rojas... las ciruelas sin mucho orden, se prestan tanto para ser fotografiadas como para ser comidas.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/fotos-niebla-iphone"><h2>Niebla en las fotos con iPhone</h2></a>
+							<a itemprop="url" href="/blog/fotos-niebla-iphone"><h2 itemprop=”headline”>Niebla en las fotos con iPhone</h2></a>
 						</div>
-						<img src="/img/ft-img/fotos-con-niebla.jpg" alt="fotos-con-niebla"/>
+						<img itemprop=”image” src="/img/ft-img/fotos-con-niebla.jpg" alt="fotos-con-niebla"/>
 					</div>
-					<p class="excerpt">La niebla es perfecta para crear increibles fotos con iPhone. Descubre donde encontrar este fenómeno meteorológico y la mejor manera de incluirla para un resultado asombroso.</p>
-				</div>
+					<p itemprop="description" class="excerpt">La niebla es perfecta para crear increibles fotos con iPhone. Descubre donde encontrar este fenómeno meteorológico y la mejor manera de incluirla para un resultado asombroso.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/fuegos-artificiales-sin-accesorios"><h2>¿Cómo lograr fotos nítidas de fuegos artificiales con el iPhone?</h2></a>
+							<a itemprop="url" href="/blog/fuegos-artificiales-sin-accesorios"><h2 itemprop=”headline”>¿Cómo lograr fotos nítidas de fuegos artificiales con el iPhone?</h2></a>
 						</div>
-						<img src="/img/ft-img/fuegos-artificiales.jpg" alt="fuegos-artificiales"/>
+						<img itemprop=”image” src="/img/ft-img/fuegos-artificiales.jpg" alt="fuegos-artificiales"/>
 					</div>
-					<p class="excerpt">Cuantas veces no hemos visto esas fotos de fuegos artificiales y pensamos lo mucho que nos gustaría hacer una esa. Con el iPhone y sin ningún accesorio, puedes lograrlo.</p>
-				</div>
+					<p itemprop="description" class="excerpt">Cuantas veces no hemos visto esas fotos de fuegos artificiales y pensamos lo mucho que nos gustaría hacer una esa. Con el iPhone y sin ningún accesorio, puedes lograrlo.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/macro-fotos-iphone-sin-lentes"><h2>Fotografía macro con iPhone sin lentes incorporados</h2></a>
+							<a itemprop="url" href="/blog/macro-fotos-iphone-sin-lentes"><h2 itemprop=”headline”>Fotografía macro con iPhone sin lentes incorporados</h2></a>
 						</div>
-						<img src="/img/ft-img/fotos-macro.jpg" alt="fotos-macro"/>
+						<img itemprop=”image” src="/img/ft-img/fotos-macro.jpg" alt="fotos-macro"/>
 					</div>
-					<p class="excerpt">La macro fotografía es quizás uno de los estilos más difíciles de lograr con el iPhone, pero con estas cuatro alternativas eso no es problema.</p>
-				</div>
+					<p itemprop="description" class="excerpt">La macro fotografía es quizás uno de los estilos más difíciles de lograr con el iPhone, pero con estas cuatro alternativas eso no es problema.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/accesorios-fotos-con-iphone"><h2>Accesorios para hacer fotos con tu iPhone</h2></a>
+							<a itemprop="url" href="/blog/accesorios-fotos-con-iphone"><h2 itemprop=”headline”>Accesorios para hacer fotos con tu iPhone</h2></a>
 						</div>
-						<img src="/img/ft-img/accesorios-iphoneografia.jpg" alt="accesorios-iphoneografia"/>
+						<img itemprop=”image” src="/img/ft-img/accesorios-iphoneografia.jpg" alt="accesorios-iphoneografia"/>
 					</div>
-					<p class="excerpt">Son diversos los accesorios creados para ayudarte a hacer buenas fotos, pero, cuál de todos ellos es el ideal para que las fotos sean sorprendentes.</p>
-				</div>
+					<p itemprop="description" class="excerpt">Son diversos los accesorios creados para ayudarte a hacer buenas fotos, pero, cuál de todos ellos es el ideal para que las fotos sean sorprendentes.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/fotos-raw-en-ios10"><h2>Con iOS 10, realiza fotografías en RAW con "RAW por 500px"</h2></a>
+							<a itemprop="url" href="/blog/fotos-raw-en-ios10"><h2 itemprop=”headline”>Con iOS 10, realiza fotografías en RAW con "RAW por 500px"</h2></a>
 						</div>
-						<img src="/img/ft-img/app-raw-by-500px.jpg" alt="app-raw-by-500px"/>
+						<img itemprop=”image” src="/img/ft-img/app-raw-by-500px.jpg" alt="app-raw-by-500px"/>
 					</div>
-					<p class="excerpt">RAW por 500px, una app con una interfaz sencilla, controles fáciles de utilizar y que hace fotos en RAW. Todo esto hace que esté entre las app preferida por fotógrafos con iPhone.</p>
-				</div>
+					<p itemprop="description" class="excerpt">RAW por 500px, una app con una interfaz sencilla, controles fáciles de utilizar y que hace fotos en RAW. Todo esto hace que esté entre las app preferida por fotógrafos con iPhone.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/fotografia-nocturna-con-smartphone"><h2>Fotografía nocturna con tu Smartphone</h2></a>
+							<a itemprop="url" href="/blog/fotografia-nocturna-con-smartphone"><h2 itemprop=”headline”>Fotografía nocturna con tu Smartphone</h2></a>
 						</div>
-						<img src="/img/ft-img/fotos-nocturnas.jpg" alt="fotos-nocturnas"/>
+						<img itemprop=”image” src="/img/ft-img/fotos-nocturnas.jpg" alt="fotos-nocturnas"/>
 					</div>
-					<p class="excerpt">Lograr con un Smartphone una foto nocturna, que sea nítida puede ser un tema difícil, pero si sabes varios trucos, el resultado será mucho más fácil de alcanzar de lo que se creías.</p>
-				</div>
+					<p itemprop="description" class="excerpt">Lograr con un Smartphone una foto nocturna, que sea nítida puede ser un tema difícil, pero si sabes varios trucos, el resultado será mucho más fácil de alcanzar de lo que se creías.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/lo-nuevo-de-apple-para-fotografia-con-iphone"><h2>Lo nuevo de Apple para la fotografía con iPhone</h2></a>
+							<a itemprop="url" href="/blog/lo-nuevo-de-apple-para-fotografia-con-iphone"><h2 itemprop=”headline”>Lo nuevo de Apple para la fotografía con iPhone</h2></a>
 						</div>
-						<img src="/img/ft-img/apple-nuevo-iphone.jpg" alt="apple-nuevo-iphone"/>
+						<img itemprop=”image” src="/img/ft-img/apple-nuevo-iphone.jpg" alt="apple-nuevo-iphone"/>
 					</div>
-					<p class="excerpt">Como cada keynote de Apple esta sobre cumple la expectativa de muchos, deja que desear para otros, pero, para los que le gusta la fotografía con el iPhone esto fue lo que presentó.</p>
-				</div>
+					<p itemprop="description" class="excerpt">Como cada keynote de Apple esta sobre cumple la expectativa de muchos, deja que desear para otros, pero, para los que le gusta la fotografía con el iPhone esto fue lo que presentó.</p>
+				</article>
             
-				<div class="post">
-					<!-- <span class="post-type">Artículo</span> -->
+				<article itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" class="post">
 					<div class="postOverlay">
 						<div class="postInfo">
-							<a href="/blog/theroll-etiqueta-organiza-selecciona-mejor-foto"><h2>Etiqueta, organiza y selecciona tu mejor foto</h2></a>
+							<a itemprop="url" href="/blog/theroll-etiqueta-organiza-selecciona-mejor-foto"><h2 itemprop=”headline”>Etiqueta, organiza y selecciona tu mejor foto</h2></a>
 						</div>
-						<img src="/img/ft-img/app-theroll.jpg" alt="app-theroll"/>
+						<img itemprop=”image” src="/img/ft-img/app-theroll.jpg" alt="app-theroll"/>
 					</div>
-					<p class="excerpt">Esta aplicacion muchos la califican como la evolución del carrete de fotos del iPhone, con ella analiza las fotos, puntúalas y etiquétalas... mira de cual te estoy hablando.</p>
-				</div>
+					<p itemprop="description" class="excerpt">Esta aplicacion muchos la califican como la evolución del carrete de fotos del iPhone, con ella analiza las fotos, puntúalas y etiquétalas... mira de cual te estoy hablando.</p>
+				</article>
             
 			</div>
             <div class="clearfix"></div>
-            <ul class="paginacion"><li class="prev-pag" style="display: none;"></li>
+            <ul itemprop="pagination" class="paginacion"><li class="prev-pag" style="display: none;"></li>
                 
                 <li class="next-pag">
                     <a href="/blog/page2/" class="next">P&aacute;gina siguiente</a>
