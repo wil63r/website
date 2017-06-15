@@ -6,8 +6,21 @@
 </description>
     <link>http://wilberzada.com</link>
     <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Jun 2017 12:37:54 -0500</pubDate>
-    <lastBuildDate>Wed, 14 Jun 2017 12:37:54 -0500</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2017 09:51:56 -0500</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2017 09:51:56 -0500</lastBuildDate>
+    
+      <item>
+        <title>7 consejos fotográficos imprescindibles</title>
+        <description>Los más simples trucos son aquellos que más útiles son a la hora para obtener fotografías increíbles sin la necesidad de invertir en un costoso equipo fotográfico.</description>
+        <pubDate>Thu, 15 Jun 2017 00:00:00 -0500</pubDate>
+        <link>http://wilberzada.com/blog/consejos-fotograficos</link>
+        
+        
+        <category>Fotografía</category>
+        
+        <category>Tips</category>
+        
+      </item>
     
       <item>
         <title>Fotografía destacada: Ciruelas</title>
@@ -133,19 +146,6 @@
         
         
         <category>Aplicaciones</category>
-        
-      </item>
-    
-      <item>
-        <title>Las fotos día a día con tu iPhone</title>
-        <description>Lograr buenas fotografías no requiere invertir en un costoso equipo fotográfico y si conoces a fondo tu iPhone o Smartphone serás capaz de obtener un producto fotográfico increíble.</description>
-        <pubDate>Mon, 06 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://wilberzada.com/blog/fotos-dia-dia-con-iphone</link>
-        
-        
-        <category>Fotografía</category>
-        
-        <category>Móvil</category>
         
       </item>
     
