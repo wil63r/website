@@ -1,25 +1,3 @@
-@font-face {
-  font-family: 'icomoon';
-  src:  url('../fonts/icon-img.eot?shlj7o');
-  src:  url('../fonts/icon-img.eot?shlj7o#iefix') format('embedded-opentype'),
-    url('../fonts/icon-img.ttf?shlj7o') format('truetype'),
-    url('../fonts/icon-img.woff?shlj7o') format('woff'),
-    url('../fonts/icon-img.svg?shlj7o#icon-img') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-.icon-exposure:before {
-  content: "\e3af0";
-}
-.icon-iso:before {
-  content: "\ef150";
-}
-.icon-camera:before {
-  content: "\e90f3";
-}
-.icon-ajustes:before {
-  content: "\e463a";
-}
 .container {
     padding: 10px 0 0;
 }
