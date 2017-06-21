@@ -6,8 +6,21 @@
 </description>
     <link>http://wilberzada.com</link>
     <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jun 2017 08:11:57 -0500</pubDate>
-    <lastBuildDate>Wed, 21 Jun 2017 08:11:57 -0500</lastBuildDate>
+    <pubDate>Wed, 21 Jun 2017 09:57:55 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Jun 2017 09:57:55 -0500</lastBuildDate>
+    
+      <item>
+        <title>Profundidad de campo en las fotos con iPhone</title>
+        <description>Los más simples trucos son aquellos que más útiles son a la hora para obtener fotografías increíbles sin la necesidad de invertir en un costoso equipo fotográfico.</description>
+        <pubDate>Wed, 21 Jun 2017 00:00:00 -0500</pubDate>
+        <link>http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone</link>
+        
+        
+        <category>Fotografía</category>
+        
+        <category>Tips</category>
+        
+      </item>
     
       <item>
         <title>7 consejos fotográficos imprescindibles</title>
@@ -135,17 +148,6 @@
         
         
         <category>Noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Etiqueta, organiza y selecciona tu mejor foto</title>
-        <description>Esta aplicacion muchos la califican como la evolución del carrete de fotos del iPhone, con ella analiza las fotos, puntúalas y etiquétalas... mira de cual te estoy hablando.</description>
-        <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</link>
-        
-        
-        <category>Aplicaciones</category>
         
       </item>
     
