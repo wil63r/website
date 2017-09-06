@@ -6,14 +6,25 @@
 </description>
     <link>http://wilberzada.com</link>
     <atom:link href="http://wilberzada.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Sep 2017 12:31:52 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 12:31:52 -0500</lastBuildDate>
+    <pubDate>Wed, 06 Sep 2017 12:33:14 -0500</pubDate>
+    <lastBuildDate>Wed, 06 Sep 2017 12:33:14 -0500</lastBuildDate>
     
       <item>
         <title>Fotografía destacada: La espera</title>
         <description>Establece un vínculo con las personas que le haces fotos en la calle, acércateles y pregúntales si estan de acuerdo en ser fotografiados, auto promociónate.</description>
         <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
         <link>http://wilberzada.com/blog/foto-destacada-laespera</link>
+        
+        
+        <category>Foto</category>
+        
+      </item>
+    
+      <item>
+        <title>Fotografía destacada: Libélula</title>
+        <description>Hacer fotos de animales salvajes, aves o insectos en su propio ambiente es todo un reto. No rendirse y tomar muchas fotos hasta conseguir la perfecta es el objetivo.</description>
+        <pubDate>Mon, 26 Jun 2017 00:00:00 -0500</pubDate>
+        <link>http://wilberzada.com/blog/foto-destacada-libelula</link>
         
         
         <category>Foto</category>
@@ -131,23 +142,6 @@
         <category>Móvil,</category>
         
         <category>Aplicaciones</category>
-        
-      </item>
-    
-      <item>
-        <title>Fotografía nocturna con tu Smartphone</title>
-        <description>Lograr con un Smartphone una foto nocturna, que sea nítida puede ser un tema difícil, pero si sabes varios trucos, el resultado será mucho más fácil de alcanzar de lo que se creías.</description>
-        <pubDate>Tue, 13 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://wilberzada.com/blog/fotografia-nocturna-con-smartphone</link>
-        
-        
-        <category>Fotografía</category>
-        
-        <category>Móvil,</category>
-        
-        <category>Tips,</category>
-        
-        <category>Guías</category>
         
       </item>
     
