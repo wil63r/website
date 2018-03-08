@@ -33,7 +33,7 @@
 	<link rel="stylesheet" href="/css/normalize.css">
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="stylesheet" href="/css/icomoon.css">
-	<!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600|Nothing+You+Could+Do" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600|Nothing+You+Could+Do" rel="stylesheet">
 
 	<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
 	<link rel="apple-touch-icon-precomposed" href="/img/apple-touch-icon-iphone-60x60.png">
@@ -89,20 +89,9 @@
 			<div class="post-meta">
 				<ul>
 					<li><small itemprop="author" itemprop="author" itemscope itemtype="http://schema.org/Person"><i class="icon-autor"></i>Wilber Zada Rosendi</small></li>
-					<li><small><i class="icon-categoria"></i><time datetime="2017-06-21T00:00:00-04:00" itemprop="datePublished">Junio 21, 2017</time>
+					<li><small><i class="icon-calendario"></i><time datetime="2017-06-21T00:00:00-04:00" itemprop="datePublished">Junio 21, 2017</time>
 						</small>
 					</li>
-					<!-- <li><small><i class="icon-categoria"></i>
-						
-						
-						<a href="/categoria/Fotografía">Fotografía</a>,
-						
-						
-						<a href="/categoria/Trucos & Consejos">Trucos & Consejos</a>,
-						
-						
-						</small>
-					</li> -->
 				</ul>
 				<a href="#comentarios"><i class="icon-comentario"></i></a>
 				<div class="share">
@@ -175,9 +164,9 @@
 <p>Aunque la profundidad de campo en la fotografía móvil no se encuentra a la par con la de una DSLR, los desarrolladores reconocen esas deficiencias y se esfuerzan por mejorarlas. Los avances en la fotografía móvil, combinados con técnicas de composición, hace posible cada día capturar fotos con el teléfono a nivel profesional.</p>
 
 				<ul class="social-share">
-					<li><a href="#" class="icon" target="_blank" title="Facebook"><span class="icon-facebook"></span></a></li>
-					<li><a href="#" class="icon" target="_blank" title="Twitter"><span class="icon-twitter"></span></a></li>
-					<li><a href="#" class="icon" target="_blank" title="Google+"><span class="icon-googleplus"></span></a></li>
+					<li><a href="https://facebook.com/sharer.php?u=http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone" title="Compartir en Facebook" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;" class="icon" target="_blank"><span class="icon-facebook"></span></a></li>
+					<li><a href="https://twitter.com/intent/tweet?text=Profundidad de campo en las fotos con iPhone&url=http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone&via=wil63r&related=wil63r" title="Compartir en Twitter" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;" class="icon" target="_blank"><span class="icon-twitter"></span></a></li>
+					<li><a href="https://plus.google.com/share?url=http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone" class="icon" target="_blank" title="Compartir en Google+" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><span class="icon-googleplus"></span></a></li>
 				</ul>
 			</section>
 		</article>
@@ -236,40 +225,29 @@
 		</section>
 		<section id="comentarios" class="comentarios">
 			<h3>Comentarios</h3>
-			<div itemprop="comment" id="disqus_thread"></div>
+			<div id="disqus_thread"></div>
 <script>
 
-	var disqus_config = function () {
-		this.page.url = "http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone";
-	};
-	(function() { // DON'T EDIT BELOW THIS LINE
-		var d = document, s = d.createElement('script');
-		s.src = '//wilberzada.disqus.com/embed.js';
-		s.setAttribute('data-timestamp', +new Date());
-		(d.head || d.body).appendChild(s);
-	})();
+var disqus_config = function () {
+this.page.url = "http://localhost:4000/blog/fotos-profundidad-de-campo-iphone";
+this.page.identifier = "Profundidad de campo en las fotos con iPhone";
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://wilberzada.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
 </script>
 <noscript>Por favor, activa el JavaScript en tu navegador para ver los comentarios.</a></noscript> 
 
 		</section>
 	</main>
 	<aside>
-		<!-- <section class="search">
-			<input class="" type="text" id="search" name="Buscar" placeholder="Buscar">
-		</section> -->
-		<section class="category-list">
-			<h4>Categorías</h4>
-			<ul>
-				<li><a href="#">Aplicaciones <i class="icon-angle-right"></i></a></li>
-				<li><a href="#">Guías <i class="icon-angle-right"></i></a></li>
-				<li><a href="#">Fotografía <i class="icon-angle-right"></i></a></li>
-				<li><a href="#">Noticias <i class="icon-angle-right"></i></a></li>
-				<li><a href="#">Trucos & Consejos <i class="icon-angle-right"></i></a></li>
-			</ul>
-		</section>
 		<section class="book-promo">
 			<div class="book-promo-info">
-				<h4><span class="icon-libro"></span>iPhoneografía paso a paso</h4>
+				<h4><span class="icon-book"></span>iPhoneografía paso a paso</h4>
 				<p>Una guía para la fotografía con teléfonos inteligentes, en especial para aquello que han convertido el iPhone en su principal herramienta fotográfica, tanto para tomar las fotos como para editarlas.</p>
 				<a href="/blog/guia-cero-a-heroe-fotografia-movil" class="download-btn">Saber más</a>
 			</div>
@@ -282,8 +260,7 @@
 			</div>
 		</section>
 	</aside>
-<!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script> -->
-	<script src="/js/jquery1.12.4.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 	<script src="/js/instafeed.js"></script>
 	<script src="/js/functions.js"></script>
 </body>
