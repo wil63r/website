@@ -381,7 +381,7 @@ nav ul li a {
 }
 .icon {
 	border-radius: 0;
-	color: #007aff;
+	color: #000;
 	cursor: pointer;
 	display: inline-block;
 	height: 2em;
@@ -400,8 +400,17 @@ nav ul li a {
 	border-top-right-radius: 1em;
 	margin-right: 0;
 }
-.icon:hover {
-	color: #000;
+.icon:hover span.icon-facebook {
+	color: #4866a6;
+	transition: color .2s ease-in-out
+}
+.icon:hover span.icon-twitter {
+	color: #1da1f2;
+	transition: color .2s ease-in-out
+}
+.icon:hover span.icon-googleplus {
+	color: #d34836;
+	transition: color .2s ease-in-out
 }
 .publication header {
 	padding: 0;
@@ -609,6 +618,10 @@ section.app-info {
 	background: #007aff;
 	color: #f0f0f7;
 	padding: 6px 15px;
+}
+#disqus_thread {
+	width: 100%;
+	margin: 0 25px;
 }
 
 /*  PÁGINAS ESTÁTICAS  */
