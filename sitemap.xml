@@ -1,162 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://wilberzada.com/blog/trucos-fotos-paisajes</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/iphone-camara-reinado-flickr</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/consejos-fotograficos</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/fotos-niebla-iphone</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/fuegos-artificiales-sin-accesorios</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/macro-fotos-iphone-sin-lentes</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/accesorios-fotos-con-iphone</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/fotos-raw-en-ios10</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/fotografia-nocturna-con-smartphone</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/lo-nuevo-de-apple-para-fotografia-con-iphone</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/fotos-dia-dia-con-iphone</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/tips-fotografia-en-cuba</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  <url>
-    <loc>http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/404</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/categorias/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/blog/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/iphoneografia-paso-a-paso/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/search.json</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/programacion-web/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/blog/page2/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://wilberzada.com/blog/page3/</loc>
-    <lastmod>2018-03-08T13:04:43-05:00</lastmod>
-  </url>
-  
-  
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/guia-cero-a-heroe-fotografia-movil</loc>
+<lastmod>2016-05-21T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/tips-fotografia-en-cuba</loc>
+<lastmod>2016-05-30T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/fotos-dia-dia-con-iphone</loc>
+<lastmod>2016-06-06T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</loc>
+<lastmod>2016-06-13T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/lo-nuevo-de-apple-para-fotografia-con-iphone</loc>
+<lastmod>2016-09-07T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/fotografia-nocturna-con-smartphone</loc>
+<lastmod>2016-09-13T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/fotos-raw-en-ios10</loc>
+<lastmod>2016-09-15T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/accesorios-fotos-con-iphone</loc>
+<lastmod>2016-10-11T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/macro-fotos-iphone-sin-lentes</loc>
+<lastmod>2016-11-29T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/fuegos-artificiales-sin-accesorios</loc>
+<lastmod>2017-01-23T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/fotos-niebla-iphone</loc>
+<lastmod>2017-02-10T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/consejos-fotograficos</loc>
+<lastmod>2017-06-14T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/fotos-profundidad-de-campo-iphone</loc>
+<lastmod>2017-06-21T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/iphone-camara-reinado-flickr</loc>
+<lastmod>2017-12-07T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/trucos-fotos-paisajes</loc>
+<lastmod>2017-12-16T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/404</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categorias/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/iphoneografia-paso-a-paso/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/programacion-web/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/descargas/</loc>
+<lastmod>2018-03-05T22:48:16-05:00</lastmod>
+</url>
 </urlset>
