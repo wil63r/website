@@ -44,7 +44,14 @@
 	<link rel="canonical" href="http://wilberzada.com/blog/consejos-fotograficos">
 	<link rel="publisher" href="https://plus.google.com/+WilberZadaRosendi/"/>
 	<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Wilber Zada - Historias con un iPhone" />
-	
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-83579978-1', 'auto');
+	ga('send', 'pageview');
+</script>
 </head>
 <body>
 	<header class="menu">
@@ -77,20 +84,19 @@
 		<div id="mobile-nav" class="toggle">
 			<div class="hamburger"></div>
 		</div>
-		<article vocab="http://schema.org/" typeof="Article" class="publication" itemscope itemtype="http://schema.org/blogPost">
+		<article class="publication" itemscope itemtype="http://schema.org/Article">
 			<header>
 				<figure>
-					<img src="/img/featured/fotografo-camara.jpg" alt="fotografo-camara">
+					<img src="/img/featured/fotografo-camara.jpg" alt="fotografo-camara" itemprop="image">
 				</figure>
 				<div class="title">
-					<h2 itemprop=”headline” property="name">7 consejos fotográficos imprescindibles</h2>
+					<h2 itemprop="name">7 consejos fotográficos imprescindibles</h2>
 				</div>
 			</header>
 			<div class="post-meta">
 				<ul>
-					<li><small itemprop="author" itemprop="author" itemscope itemtype="http://schema.org/Person"><i class="icon-autor"></i>Wilber Zada Rosendi</small></li>
-					<li><small><i class="icon-calendario"></i><time datetime="2017-06-14T00:00:00-04:00" itemprop="datePublished">Junio 14, 2017</time>
-						</small>
+					<li itemprop="author" itemscope itemtype="http://schema.org/Person"><small itemprop="name"><i class="icon-autor"></i>Wilber Zada Rosendi</small></li>
+					<li><small><i class="icon-calendario"></i><time datetime="2017-06-14T00:00:00-04:00"><meta itemprop="datePublished" content="6 14, 2017">Junio 14, 2017</time></small>
 					</li>
 					<!-- <li><small><i class="icon-categoria"></i>
 						
@@ -112,7 +118,7 @@
 					<a href="#"><div class="label"><i class="icon-share"></i></div></a>
 				</div>
 			</div>
-			<section class="post-content" property="articleBody">
+			<section class="post-content" itemprop="articleBody">
 				<p>Simples trucos, que cualquier persona puede usar como herramienta para obtener fotografías increíbles en cualquier momento sin la necesidad de invertir en un costoso equipo fotográfico. Está comprobado que la mayoría de las veces, “Menos, es más” y estos 7 consejos pueden ser una muestra de esta afirmación.</p>
 
 <ol>
