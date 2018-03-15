@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-14T14:52:17-04:00</updated><id>http://localhost:4000/</id><title type="html">Wilber Zada - Historias con un iPhone</title><subtitle>Si te interesa la fotografía con iPhone u otro Smartphone, estás en el sitio correcto. Aquí encontrarás consejos, trucos y más sobre las fotos con móviles.</subtitle><entry><title type="html">El Secreto detrás de las fotos en Blanco &amp;amp; Negro con iPhone</title><link href="http://localhost:4000/blog/fotos-blanco-negro-con-iphone" rel="alternate" type="text/html" title="El Secreto detrás de las fotos en Blanco &amp; Negro con iPhone" /><published>2018-03-14T00:00:00-04:00</published><updated>2018-03-14T00:00:00-04:00</updated><id>http://localhost:4000/blog/fotos-blanco-negro-con-iphone</id><content type="html" xml:base="http://localhost:4000/blog/fotos-blanco-negro-con-iphone">&lt;p&gt;Las fotos en Blanco &amp;amp; Negro (B&amp;amp;N) van más allá de una simple foto a color con un filtro. La escala de grises es otra forma de ver el mundo y si no se presta atención serán imágenes aburridas. Como toda categoría en la fotografía B&amp;amp;N hay reglas que, si se siguen, transforman lo ordinario en extraordinario. Algo a tener en cuenta es que no todas las escenas funcionan sin colores, por lo que se debe tener bien en cuenta tanto el fondo, como los elementos que rodean el objetivo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilber Zada - Historias con un iPhone</title>
+    <description>Si te interesa la fotografía con iPhone u otro Smartphone, estás en el sitio correcto. Aquí encontrarás consejos, trucos y más sobre las fotos con móviles.</description>
+    <link>http://wilberzada.com</link>
+    
+      
+        <item>
+          <title>El Secreto detrás de las fotos en Blanco &amp; Negro con iPhone</title>
+          <description>&lt;p&gt;Las fotos en Blanco &amp;amp; Negro (B&amp;amp;N) van más allá de una simple foto a color con un filtro. La escala de grises es otra forma de ver el mundo y si no se presta atención serán imágenes aburridas. Como toda categoría en la fotografía B&amp;amp;N hay reglas que, si se siguen, transforman lo ordinario en extraordinario. Algo a tener en cuenta es que no todas las escenas funcionan sin colores, por lo que se debe tener bien en cuenta tanto el fondo, como los elementos que rodean el objetivo.&lt;/p&gt;
 
 &lt;p&gt;Las fotos B&amp;amp;N no quiere decir que deban capturarse de esa manera, se pueden hacer en color y luego desaturar en un editor como Snapseed o el propio que trae la cámara nativa del iPhone. No obstante, se hagan fotos a color o en blanco y negro, lo que se debe tener en cuenta es que el sujeto se vea bien una vez que no haya colores.&lt;/p&gt;
 
@@ -42,7 +52,18 @@
 
 &lt;p&gt;Obtener increíbles fotos en Blanco &amp;amp; Negro no es aplicar estas reglas al pie de la letra, sino más bien de reinterpretarlas de una manera creativa.&lt;/p&gt;
 
-&lt;p&gt;¿Qué técnicas empleas tú en tus fotografías en blanco y negro? Coméntalas aquí.&lt;/p&gt;</content><author><name></name></author><summary type="html">En las fotos Blanco &amp; Negro destaca más la luz, las sombras son más pronunciadas, capturan o crean una atmósfera y no una escena o una emoción.</summary></entry><entry><title type="html">Trucos para hacer increíbles fotos de paisajes con el iPhone</title><link href="http://localhost:4000/blog/trucos-fotos-paisajes" rel="alternate" type="text/html" title="Trucos para hacer increíbles fotos de paisajes con el iPhone" /><published>2017-12-16T00:00:00-05:00</published><updated>2017-12-16T00:00:00-05:00</updated><id>http://localhost:4000/blog/trucos-fotos-paisajes</id><content type="html" xml:base="http://localhost:4000/blog/trucos-fotos-paisajes">&lt;p&gt;Cuántas veces se ha visto la foto de un paisaje en particular y siempre hay algo nuevo que aporta el fotógrafo en su captura. Eso es de las tantas cosas buenas que trae consigo la fotografía de paisaje.&lt;/p&gt;
+&lt;p&gt;¿Qué técnicas empleas tú en tus fotografías en blanco y negro? Coméntalas aquí.&lt;/p&gt;
+</description>
+          <pubDate>2018-03-14T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/fotos-blanco-negro-con-iphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fotos-blanco-negro-con-iphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Trucos para hacer increíbles fotos de paisajes con el iPhone</title>
+          <description>&lt;p&gt;Cuántas veces se ha visto la foto de un paisaje en particular y siempre hay algo nuevo que aporta el fotógrafo en su captura. Eso es de las tantas cosas buenas que trae consigo la fotografía de paisaje.&lt;/p&gt;
 
 &lt;p&gt;Diferentes momentos del día, épocas del año, perspectiva, lente, filtro, son muchas las alternativas para ofrecer a los espectadores un punto de vista diferente de un mismo lugar.&lt;/p&gt;
 
@@ -107,7 +128,18 @@
 
 &lt;p&gt;Utiliza accesorios para hacer fotos de paisajes tales como &lt;a href=&quot;/blog/accesorios-fotos-con-iphone#lentes&quot;&gt;lentes incorporados para el iPhone&lt;/a&gt;, ya sea un gran angular o un teleobjetivo, cada uno de estos brindará una diferente perspectiva del lugar. Haz uso de un &lt;a href=&quot;/blog/accesorios-fotos-con-iphone#trípodes&quot;&gt;trípode&lt;/a&gt;, a la hora de establecer la composición, este será de gran ayuda.&lt;/p&gt;
 
-&lt;p&gt;Finalmente, no se han de limitar las fotos de paisajes a lo amplio y basto que este pueda ser. Existen detalles pequeños en la naturaleza como flores, insectos, grupos de hojas que pueden resultar interesantes, no se ha de tener miedo a la hora de rellenar la escena.&lt;/p&gt;</content><author><name></name></author><summary type="html">Lo mejor de la fotografía de paisaje es que no importa cuántas veces un lugar en particular ha sido fotografiado, siempre hay algo diferente que ver y documentar.</summary></entry><entry><title type="html">Continua el reinado del iPhone como la cámara más usada en Flickr</title><link href="http://localhost:4000/blog/iphone-camara-reinado-flickr" rel="alternate" type="text/html" title="Continua el reinado del iPhone como la cámara más usada en Flickr" /><published>2017-12-07T00:00:00-05:00</published><updated>2017-12-07T00:00:00-05:00</updated><id>http://localhost:4000/blog/iphone-camara-reinado-flickr</id><content type="html" xml:base="http://localhost:4000/blog/iphone-camara-reinado-flickr">&lt;p&gt;Como cada año, Flickr ha compartido las estadísticas de su Año en Revisión 2017, donde se resaltan varios aspectos de la comunidad, entre ellos: las Mejores 25 Fotos de 2017, los 10 Mejores Dispositivos y las Mejores Marcas.&lt;/p&gt;
+&lt;p&gt;Finalmente, no se han de limitar las fotos de paisajes a lo amplio y basto que este pueda ser. Existen detalles pequeños en la naturaleza como flores, insectos, grupos de hojas que pueden resultar interesantes, no se ha de tener miedo a la hora de rellenar la escena.&lt;/p&gt;
+</description>
+          <pubDate>2017-12-16T00:00:00-05:00</pubDate>
+          <link>http://wilberzada.com/blog/trucos-fotos-paisajes</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/trucos-fotos-paisajes</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Continua el reinado del iPhone como la cámara más usada en Flickr</title>
+          <description>&lt;p&gt;Como cada año, Flickr ha compartido las estadísticas de su Año en Revisión 2017, donde se resaltan varios aspectos de la comunidad, entre ellos: las Mejores 25 Fotos de 2017, los 10 Mejores Dispositivos y las Mejores Marcas.&lt;/p&gt;
 
 &lt;p&gt;En cuanto a las marcas, Apple continua su reinado en dicha comunidad superando nuevamente a los fabricantes de cámaras, ya que los iPhones son utilizados por un 54% de los fotógrafos que subieron fotos a Flickr este año, seguido por Canon en el segundo lugar (23%) y Nikon en el tercero (18%) .&lt;/p&gt;
 
@@ -120,7 +152,18 @@
 
 &lt;p&gt;Los iPhones más populares utilizados para capturar fotos compartidas en Flickr en 2017 no son presisamente los modelos más recientes de la compañia de Cupertino, son el iPhone 6, el iPhone 6s y el iPhone 5s los preferidos en esta lista. Este 2017 a tenido además un crecimiento en el uso de los teléfonos inteligentes para publicar las fotos en Flickr, con un 50%, mientras que las DSLR quedaron en segundo lugar con un 33%.&lt;/p&gt;
 
-&lt;p&gt;En cuanto a fotos, Flickr ha publicado varias colecciones que resumen el año que casi termina, incluidas las Top 25 Fotos de 2017, Top Portrait Photography, Top Nature &amp;amp; Wildlife Photography, entre otras.&lt;/p&gt;</content><author><name></name></author><summary type="html">Flickr compartió las estadísticas del 2017, donde resaltan varios aspectos, entre ellos, las Mejores Fotos, los Mejores Dispositivos y las Mejores Marcas.</summary></entry><entry><title type="html">Profundidad de campo en las fotos con iPhone</title><link href="http://localhost:4000/blog/fotos-profundidad-de-campo-iphone" rel="alternate" type="text/html" title="Profundidad de campo en las fotos con iPhone" /><published>2017-06-21T00:00:00-04:00</published><updated>2017-06-21T00:00:00-04:00</updated><id>http://localhost:4000/blog/fotos-profundidad-de-campo-iphone</id><content type="html" xml:base="http://localhost:4000/blog/fotos-profundidad-de-campo-iphone">&lt;p&gt;Algo que no posee un iPhone u cualquier otro Smartphone, es la capacidad de las cámaras DSLR de ajustar la apertura y controlar completamente la cantidad de luz que el lente deja pasar.&lt;/p&gt;
+&lt;p&gt;En cuanto a fotos, Flickr ha publicado varias colecciones que resumen el año que casi termina, incluidas las Top 25 Fotos de 2017, Top Portrait Photography, Top Nature &amp;amp; Wildlife Photography, entre otras.&lt;/p&gt;
+</description>
+          <pubDate>2017-12-07T00:00:00-05:00</pubDate>
+          <link>http://wilberzada.com/blog/iphone-camara-reinado-flickr</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/iphone-camara-reinado-flickr</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Profundidad de campo en las fotos con iPhone</title>
+          <description>&lt;p&gt;Algo que no posee un iPhone u cualquier otro Smartphone, es la capacidad de las cámaras DSLR de ajustar la apertura y controlar completamente la cantidad de luz que el lente deja pasar.&lt;/p&gt;
 
 &lt;p&gt;Los iPhone, como todos los Smartphone poseen una apertura fija en el lente. Esta característica no se hecha a ver cuando se toman fotos sobre la marcha, pero cuando se desea realizar ajustes especificos, las posibilidades son pocas en comparación con las que una cámara profesional puede brindar.&lt;/p&gt;
 
@@ -179,7 +222,18 @@
 	&lt;figcaption&gt;Fondo desenfocado mediante el uso de la aplicación Tadaa SLR.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Aunque la profundidad de campo en la fotografía móvil no se encuentra a la par con la de una DSLR, los desarrolladores reconocen esas deficiencias y se esfuerzan por mejorarlas. Los avances en la fotografía móvil, combinados con técnicas de composición, hace posible cada día capturar fotos con el teléfono a nivel profesional.&lt;/p&gt;</content><author><name></name></author><summary type="html">Aunque la profundidad de campo en la fotografía móvil no se encuentra a la par con la de una DSLR con el iPhone es posible lograr este efecto. Mira como hacerlo.</summary></entry><entry><title type="html">7 consejos fotográficos imprescindibles</title><link href="http://localhost:4000/blog/consejos-fotograficos" rel="alternate" type="text/html" title="7 consejos fotográficos imprescindibles" /><published>2017-06-14T00:00:00-04:00</published><updated>2017-06-14T00:00:00-04:00</updated><id>http://localhost:4000/blog/consejos-fotograficos</id><content type="html" xml:base="http://localhost:4000/blog/consejos-fotograficos">&lt;p&gt;Simples trucos, que cualquier persona puede usar como herramienta para obtener fotografías increíbles en cualquier momento sin la necesidad de invertir en un costoso equipo fotográfico. Está comprobado que la mayoría de las veces, “Menos, es más” y estos 7 consejos pueden ser una muestra de esta afirmación.&lt;/p&gt;
+&lt;p&gt;Aunque la profundidad de campo en la fotografía móvil no se encuentra a la par con la de una DSLR, los desarrolladores reconocen esas deficiencias y se esfuerzan por mejorarlas. Los avances en la fotografía móvil, combinados con técnicas de composición, hace posible cada día capturar fotos con el teléfono a nivel profesional.&lt;/p&gt;
+</description>
+          <pubDate>2017-06-21T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fotos-profundidad-de-campo-iphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>7 consejos fotográficos imprescindibles</title>
+          <description>&lt;p&gt;Simples trucos, que cualquier persona puede usar como herramienta para obtener fotografías increíbles en cualquier momento sin la necesidad de invertir en un costoso equipo fotográfico. Está comprobado que la mayoría de las veces, “Menos, es más” y estos 7 consejos pueden ser una muestra de esta afirmación.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -205,7 +259,18 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;¿Incluirías algún otro consejo a esta lista? Déjalo escrito en los comentarios y de paso, qué opinas de estos.&lt;/p&gt;</content><author><name></name></author><summary type="html">Los más simples trucos son aquellos que más útiles son a la hora para obtener fotografías increíbles sin la necesidad de invertir en un costoso equipo fotográfico.</summary></entry><entry><title type="html">Niebla en las fotos con iPhone</title><link href="http://localhost:4000/blog/fotos-niebla-iphone" rel="alternate" type="text/html" title="Niebla en las fotos con iPhone" /><published>2017-02-10T00:00:00-05:00</published><updated>2017-02-10T00:00:00-05:00</updated><id>http://localhost:4000/blog/fotos-niebla-iphone</id><content type="html" xml:base="http://localhost:4000/blog/fotos-niebla-iphone">&lt;p&gt;Cuando vemos fotos de paisajes incluyen niebla o neblina (una es diferente de la otra) crea una asombrosa atmósfera en ellas. Para fotografiar este fenómeno meteorológico puedes escuchar el reporte del clima y así conocer si habrá niebla o neblina, pero la mejor forma de cazarlas es bien temprano en la mañana, cuando aún el sol no calienta. Es bueno saber que las zonas con ríos o lagos cerca son más propensas a que aparezca este fenómeno y en áreas donde abundan los árboles también suele encontrarse.&lt;/p&gt;
+&lt;p&gt;¿Incluirías algún otro consejo a esta lista? Déjalo escrito en los comentarios y de paso, qué opinas de estos.&lt;/p&gt;
+</description>
+          <pubDate>2017-06-14T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/consejos-fotograficos</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/consejos-fotograficos</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Niebla en las fotos con iPhone</title>
+          <description>&lt;p&gt;Cuando vemos fotos de paisajes incluyen niebla o neblina (una es diferente de la otra) crea una asombrosa atmósfera en ellas. Para fotografiar este fenómeno meteorológico puedes escuchar el reporte del clima y así conocer si habrá niebla o neblina, pero la mejor forma de cazarlas es bien temprano en la mañana, cuando aún el sol no calienta. Es bueno saber que las zonas con ríos o lagos cerca son más propensas a que aparezca este fenómeno y en áreas donde abundan los árboles también suele encontrarse.&lt;/p&gt;
 
 &lt;p&gt;Para lograr capturar la belleza y el encanto místico que la niebla crea, es necesario evitar cualquier movimiento ya que la poca luz puede hacer que la foto no quedenítida, aunque si lo deseas, este desenfoque puede ser parte de la imagen misma. Si no cuentas con un trípode en ese momento, una buena práctica es pegar los codos a ambos lados del cuerpo y aguantar la respiración mientras se toma la fotografía y siempre agarrar bien fuerte el Smartphone.&lt;/p&gt;
 
@@ -216,7 +281,18 @@
 
 &lt;p&gt;La niebla también es perfecta para crear un fondo sorprendente con el uso de espacio negativo y así aislar el objetivo principal. Este tipo de fotografía consigue despertar en el observador sentimientos de paz y calma. Cuando se toman fotos donde la niebla o la neblina forman parte de la composición, en la mayoría de los casos es necesario ajustar la exposición manualmente ya estas pueden engañar la exposición automática de la cámara del iPhone.&lt;/p&gt;
 
-&lt;p&gt;Experimentar en las fotos incluyendo este fenómeno meteorológico siempre producirá un resultado agradable además de no requerir un gran proceso de edición, en algunos casos de ser necesario, algunos ajustes mínimos.&lt;/p&gt;</content><author><name></name></author><summary type="html">La niebla es perfecta para crear increibles fotos con iPhone. Descubre donde encontrar este fenómeno meteorológico y la mejor manera de incluirla para un resultado asombroso.</summary></entry><entry><title type="html">¿Cómo lograr fotos nítidas de fuegos artificiales con el iPhone?</title><link href="http://localhost:4000/blog/fuegos-artificiales-sin-accesorios" rel="alternate" type="text/html" title="¿Cómo lograr fotos nítidas de fuegos artificiales con el iPhone?" /><published>2017-01-23T00:00:00-05:00</published><updated>2017-01-23T00:00:00-05:00</updated><id>http://localhost:4000/blog/fuegos-artificiales-sin-accesorios</id><content type="html" xml:base="http://localhost:4000/blog/fuegos-artificiales-sin-accesorios">&lt;p&gt;Hace un tiempo atrás comentaba acerca de &lt;a href=&quot;fotografia-nocturna-con-smartphone&quot;&gt;las fotos nocturnas con iPhone&lt;/a&gt;, de cómo transmitir esa sensación de misterio, y lograr esa atmósfera mágica que tanto nos atrae. En esta ocasión volvemos a esperar la caída de la noche, esta vez, para capturar ese pequeño instante en que estallan los fuegos artificiales e iluminan el cielo.&lt;/p&gt;
+&lt;p&gt;Experimentar en las fotos incluyendo este fenómeno meteorológico siempre producirá un resultado agradable además de no requerir un gran proceso de edición, en algunos casos de ser necesario, algunos ajustes mínimos.&lt;/p&gt;
+</description>
+          <pubDate>2017-02-10T00:00:00-05:00</pubDate>
+          <link>http://wilberzada.com/blog/fotos-niebla-iphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fotos-niebla-iphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>¿Cómo lograr fotos nítidas de fuegos artificiales con el iPhone?</title>
+          <description>&lt;p&gt;Hace un tiempo atrás comentaba acerca de &lt;a href=&quot;fotografia-nocturna-con-smartphone&quot;&gt;las fotos nocturnas con iPhone&lt;/a&gt;, de cómo transmitir esa sensación de misterio, y lograr esa atmósfera mágica que tanto nos atrae. En esta ocasión volvemos a esperar la caída de la noche, esta vez, para capturar ese pequeño instante en que estallan los fuegos artificiales e iluminan el cielo.&lt;/p&gt;
 
 &lt;h3 class=&quot;rel-title&quot;&gt;&lt;a href=&quot;fotografia-nocturna-con-smartphone&quot;&gt;Fotos nocturnas con iPhone&lt;/a&gt;&lt;/h3&gt;
 
@@ -237,7 +313,18 @@
 
 &lt;p&gt;Ya sabes, la próxima celebración donde haya fuegos artificiales, saca tu iPhone y a capturar fotos increíbles.&lt;/p&gt;
 
-&lt;p&gt;¿Qué te ha parecido este método? Comenta si haz usado algún otro método o si este te ha servido. Si crees que te fue de ayuda comparte este artículo en las redes sociales, sino lo fue, te invito a que lo compartas igualmente, tal vez a otra persona, le funcione tal como a mí. ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">Cuantas veces no hemos visto esas fotos de fuegos artificiales y pensamos lo mucho que nos gustaría hacer una esa. Con el iPhone y sin ningún accesorio, puedes lograrlo.</summary></entry><entry><title type="html">Fotografía macro con iPhone sin lentes incorporados</title><link href="http://localhost:4000/blog/macro-fotos-iphone-sin-lentes" rel="alternate" type="text/html" title="Fotografía macro con iPhone sin lentes incorporados" /><published>2016-11-29T00:00:00-05:00</published><updated>2016-11-29T00:00:00-05:00</updated><id>http://localhost:4000/blog/macro-fotos-iphone-sin-lentes</id><content type="html" xml:base="http://localhost:4000/blog/macro-fotos-iphone-sin-lentes">&lt;p&gt;La macro fotografía es uno de los estilos más difíciles de lograr con el iPhone debido a que tanto el lente como el software de la aplicación nativa “cámara” no están diseñados para eso. Generalmente para fotografiar esos diminutos elementos se utiliza &lt;a href=&quot;/blog/accesorios-fotos-con-iphone&quot;&gt;lentes incorporados como los “Moments” o los “Olloclip”&lt;/a&gt;, los cuales requieren una inversión, que tal vez no tenías pensada o no planeas hacer.&lt;/p&gt;
+&lt;p&gt;¿Qué te ha parecido este método? Comenta si haz usado algún otro método o si este te ha servido. Si crees que te fue de ayuda comparte este artículo en las redes sociales, sino lo fue, te invito a que lo compartas igualmente, tal vez a otra persona, le funcione tal como a mí. ;)&lt;/p&gt;
+</description>
+          <pubDate>2017-01-23T00:00:00-05:00</pubDate>
+          <link>http://wilberzada.com/blog/fuegos-artificiales-sin-accesorios</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fuegos-artificiales-sin-accesorios</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Fotografía macro con iPhone sin lentes incorporados</title>
+          <description>&lt;p&gt;La macro fotografía es uno de los estilos más difíciles de lograr con el iPhone debido a que tanto el lente como el software de la aplicación nativa “cámara” no están diseñados para eso. Generalmente para fotografiar esos diminutos elementos se utiliza &lt;a href=&quot;/blog/accesorios-fotos-con-iphone&quot;&gt;lentes incorporados como los “Moments” o los “Olloclip”&lt;/a&gt;, los cuales requieren una inversión, que tal vez no tenías pensada o no planeas hacer.&lt;/p&gt;
 
 &lt;p&gt;En esta publicación te mostraré 4 alternativas para hacer fotos macro sin la utilidad de alguno de estos lentes.&lt;/p&gt;
 
@@ -313,7 +400,18 @@
 	&lt;figcaption&gt;Una lupa puede ser un accesorio útil para fotografíar objetos pequeños.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Estas son algunas alternativas para realizar fotos macro con el iPhone sin el uso de lentes incorporados, si conoces alguna otra aplicación u otra manera, coméntala y compártela aquí.&lt;/p&gt;</content><author><name></name></author><summary type="html">La macro fotografía es quizás uno de los estilos más difíciles de lograr con el iPhone, pero con estas cuatro alternativas eso no es problema.</summary></entry><entry><title type="html">Accesorios para hacer fotos con tu iPhone</title><link href="http://localhost:4000/blog/accesorios-fotos-con-iphone" rel="alternate" type="text/html" title="Accesorios para hacer fotos con tu iPhone" /><published>2016-10-11T00:00:00-04:00</published><updated>2016-10-11T00:00:00-04:00</updated><id>http://localhost:4000/blog/accesorios-fotos-con-iphone</id><content type="html" xml:base="http://localhost:4000/blog/accesorios-fotos-con-iphone">&lt;p&gt;Son diversos los accesorios creados para ayudarte a “hacer buenas fotos”, pero, cuál de todos ellos es el ideal para que las fotos sean sorprendentes.&lt;/p&gt;
+&lt;p&gt;Estas son algunas alternativas para realizar fotos macro con el iPhone sin el uso de lentes incorporados, si conoces alguna otra aplicación u otra manera, coméntala y compártela aquí.&lt;/p&gt;
+</description>
+          <pubDate>2016-11-29T00:00:00-05:00</pubDate>
+          <link>http://wilberzada.com/blog/macro-fotos-iphone-sin-lentes</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/macro-fotos-iphone-sin-lentes</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Accesorios para hacer fotos con tu iPhone</title>
+          <description>&lt;p&gt;Son diversos los accesorios creados para ayudarte a “hacer buenas fotos”, pero, cuál de todos ellos es el ideal para que las fotos sean sorprendentes.&lt;/p&gt;
 
 &lt;h3 id=&quot;toallitas-de-limpieza&quot;&gt;Toallitas de limpieza&lt;/h3&gt;
 &lt;p&gt;El primer accesorio es quizás el que nadie se acuerda o no le dan importancia y es unas toallitas de limpieza. Recuerda que la cámara del iPhone o cualquier otro Smartphone están en constante exposición a diversos elementos, ya sea la huella de tu dedo, la pelusa que habita en el bolsillo del pantalón, el polvo que nos rodea, etc. Por este motivo mantener limpio el lente es primordial para lograr una buena foto. Por lo tanto, este es el accesorio principal que todo fotógrafo ha de tener, ya sea cualquier dispositivo que se use para hacer fotografías.&lt;/p&gt;
@@ -361,7 +459,18 @@
 
 &lt;p&gt;Podrás encontrar además Flash para sustituir la diminuta lámpara que acompaña al iPhone, la cual, al ser una pequeña fuente de luz, los resultados que se obtienen pueden ser horrendos. Un ejemplo de estos es el &lt;em&gt;NovaFlash&lt;/em&gt;, dispositivo que se conecta vía Bluetooh, posee su propia aplicación para hacer fotos y algo que puede ser un tanto incómodo, así como beneficioso es que la lámpara debes sostenerla en la mano tal y como décadas atrás se usaban las explosiones de polvo de magnesio para hacer las fotos.&lt;/p&gt;
 
-&lt;p&gt;Algo se ha de tener en cuenta, y es que el verdadero secreto para que la foto sea impresionante, no es el uso de estos accesorios, es la habilidad, la perspectiva, la imaginación que tengas para lograrla y sobre todo disfrutar el momento cuando la haces.&lt;/p&gt;</content><author><name></name></author><summary type="html">Son diversos los accesorios creados para ayudarte a hacer buenas fotos, pero, cuál de todos ellos es el ideal para que las fotos sean sorprendentes.</summary></entry><entry><title type="html">Con iOS 10, realiza fotografías en RAW con “RAW por 500px”</title><link href="http://localhost:4000/blog/fotos-raw-en-ios10" rel="alternate" type="text/html" title="Con iOS 10, realiza fotografías en RAW con &quot;RAW por 500px&quot;" /><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><id>http://localhost:4000/blog/fotos-raw-en-ios10</id><content type="html" xml:base="http://localhost:4000/blog/fotos-raw-en-ios10">&lt;p&gt;Con la salida de iOS 10 son varias las aplicaciones que ya se han actualizado y permiten trabajar con fotos en formato &lt;em&gt;RAW&lt;/em&gt;, como es el caso de Snapseed, pero, hacía falta la actualización o publicación de una aplicación cámara que hiciera fotos en este formato preferido por muchos fotógrafos.&lt;/p&gt;
+&lt;p&gt;Algo se ha de tener en cuenta, y es que el verdadero secreto para que la foto sea impresionante, no es el uso de estos accesorios, es la habilidad, la perspectiva, la imaginación que tengas para lograrla y sobre todo disfrutar el momento cuando la haces.&lt;/p&gt;
+</description>
+          <pubDate>2016-10-11T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/accesorios-fotos-con-iphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/accesorios-fotos-con-iphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Con iOS 10, realiza fotografías en RAW con &quot;RAW por 500px&quot;</title>
+          <description>&lt;p&gt;Con la salida de iOS 10 son varias las aplicaciones que ya se han actualizado y permiten trabajar con fotos en formato &lt;em&gt;RAW&lt;/em&gt;, como es el caso de Snapseed, pero, hacía falta la actualización o publicación de una aplicación cámara que hiciera fotos en este formato preferido por muchos fotógrafos.&lt;/p&gt;
 
 &lt;p&gt;A esta necesidad le sale al paso los desarrolladores de &lt;strong&gt;500px&lt;/strong&gt; con la publicación en el Apple Store de &lt;a href=&quot;https://itunes.apple.com/us/app/raw-by-500px-shoot-edit-sell/id1135070560?mt=8&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;RAW by 500px&lt;/em&gt;&lt;/a&gt;, una cámara con una interfaz sencilla, unos controles fáciles de utilizar y que además, hace fotos en &lt;em&gt;RAW&lt;/em&gt;. A esto se le suma con un conjunto de características que hacen que, en su poco tiempo de lanzamiento sea preferida por muchos y las criticas sean de las mejores.&lt;/p&gt;
 
@@ -395,4 +504,304 @@
 	&lt;figcaption&gt;Capturas de la pantalla principal de la aplicación RAW por 500px.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Definitivamente esta aplicación facilitará mucho el trabajo en cuanto a captura y edición de las fotos, con la ventaja de que estas son hechas en &lt;em&gt;RAW&lt;/em&gt;. Si aún no tienes esta app instalada, te invito a que lo hagas desde el &lt;a href=&quot;https://itunes.apple.com/us/app/raw-by-500px-shoot-edit-sell/id1135070560?mt=8&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Apple Store&lt;/em&gt;&lt;/a&gt;. Si ya lo hiciste y la probaste, comenta que te ha parecido.&lt;/p&gt;</content><author><name></name></author><summary type="html">RAW por 500px, una app con una interfaz sencilla, controles fáciles de utilizar y que hace fotos en RAW. Todo esto hace que esté entre las app preferida por fotógrafos con iPhone.</summary></entry></feed>
+&lt;p&gt;Definitivamente esta aplicación facilitará mucho el trabajo en cuanto a captura y edición de las fotos, con la ventaja de que estas son hechas en &lt;em&gt;RAW&lt;/em&gt;. Si aún no tienes esta app instalada, te invito a que lo hagas desde el &lt;a href=&quot;https://itunes.apple.com/us/app/raw-by-500px-shoot-edit-sell/id1135070560?mt=8&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Apple Store&lt;/em&gt;&lt;/a&gt;. Si ya lo hiciste y la probaste, comenta que te ha parecido.&lt;/p&gt;
+</description>
+          <pubDate>2016-09-15T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/fotos-raw-en-ios10</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fotos-raw-en-ios10</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Fotografía nocturna con tu Smartphone</title>
+          <description>&lt;p&gt;Lograr con un Smartphone una foto de noche, la cual sea nítida, esté bien iluminada y además la cantidad de granos o ruido sea ninguna (o al menos casi ninguna) para algunos puede ser un tema difícil, para otros una utopía, pero si sabes varios trucos, puedes sumarte al inmenso grupo que ha logrado en más de una ocasión una fotografía como esta.&lt;/p&gt;
+
+&lt;p&gt;¿Por qué hacer fotos de noche? Las fotos de nocturnas transmiten una sensación de misterio, y es esa atmósfera mágica la que insta a querer capturar ese momento.&lt;/p&gt;
+
+&lt;p&gt;Estos trucos no son los secretos de un mago que no pueden ser revelados, todo lo contrario, si buscas, puedes encontrarlos, solo que en esta ocasión ya la búsqueda está hecha y te presento varios de esto, los que te invito igualmente a compartir.&lt;/p&gt;
+
+&lt;h3 id=&quot;tips-para-hacer-fotos-de-noche-con-tu-smartphone&quot;&gt;Tips para hacer fotos de noche con tu Smartphone&lt;/h3&gt;
+
+&lt;p&gt;Lo primero que debes realizar si vas a hacer fotos con tu Smartphone es &lt;strong&gt;limpiar el lente&lt;/strong&gt; de este, ya sean fotos de día o de noche. Ten en cuenta que además de ser tu cámara es tu teléfono y el propio uso de este, puede haber marcas de dedos.&lt;/p&gt;
+
+&lt;p&gt;Uno de los mejores momentos para hacer fotos en la noche es justo cuando el sol se ha puesto, ya que el cielo aún no está completamente oscuro. Las luces de las casas y los demás establecimientos o edificios ya estarán encendidas lo que proporcionará un mejor contraste.&lt;/p&gt;
+
+&lt;p&gt;En la noche habrá mucho menos luz (obvio) por lo que para realizar la fotografía tu Smartphone necesitará de un mayor tiempo para capturar la cantidad de luz necesaria para esta, lo que lleva a que este debe estar totalmente quieto durante ese período. Cualquier movimiento hará que la foto quede fuera de foco y es lo principal que se ha de tratar de lograr. Lo ideal es usar algún trípode como el &lt;em&gt;Joby GorillaPod&lt;/em&gt;, que al ser pequeño facilita su transportación.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/auto-clasico-noche.jpg&quot; alt=&quot;Auto clásico en La Habana de noche&quot; /&gt;
+	&lt;figcaption&gt;Para lograr fotos de noche bien nítidas es esencial el uso de un trípode.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Si no cuentas con ningún trípode en el momento de hacer las fotos, puedes realizar algunas de estas acciones:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Contén la respiración&lt;/strong&gt;, esto reducirá el movimiento de tu cuerpo y por ende el de tu teléfono. Si has visto alguna película de francotiradores tal vez te habrás dado cuenta que para realizar algún disparo con mucha precisión esto es lo que hacen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Presionar los codos contra las costillas&lt;/strong&gt;, es otra técnica que reduce el movimiento. Al estirar los brazos para hacer las fotos como generalmente se hace, puede provocar que estos se cansen lo que llevaría a un indeseado movimiento.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Apoya el Smartphone en algún objeto a tu alrededor&lt;/strong&gt;, así evitarás cualquier movimiento que cause tu cuerpo o tus brazos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Usa un agarre sobre el Smartphone que le dé mayor firmeza y estabilidad&lt;/strong&gt; posibilitando de esta manera mayor estabilidad.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Utilizar el temporizador o un disparador remoto&lt;/strong&gt; es otra buena forma de evitar tocar la pantalla y así mover el equipo. En caso de los iPhone puedes hacer fotos tocando el botón de &lt;em&gt;volumen +&lt;/em&gt; que se encuentra en un lateral, esto junto a un buen agarre hacen una combinación perfecta.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/agarre-iphone.jpg&quot; alt=&quot;Forma de agarrar el móvil para hacer fotos&quot; /&gt;
+	&lt;figcaption&gt;Un buen agarre sobre el teléfono le da una mayor firmeza a la hora de hacer fotos.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Si usas una aplicación que permita controlar la exposición, haz uso de esa característica, de no usarse, la cámara tratará de ajustar automáticamente estos niveles y las sombras o zonas oscuras pueden quedar más brillantes de lo que son realmente.&lt;/p&gt;
+
+&lt;p&gt;Utiliza la iluminación a tu alrededor. Las luces de la calle son ideales ya que pueden enfatizar el objetivo de la fotografía. En caso de retratos, encuentra primero la luz y luego que esta ilumine las caras, de manera que el rostro se vea, de lo contrario pudiera convertirse en una silueta.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/habana-vieja-noche.jpg&quot; alt=&quot;Calle de la Habana Vieja de noche&quot; /&gt;
+	&lt;figcaption&gt;Utiliza las luces a tu alrededor para lograr una buena foto en condiciones de poca iluminación.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Al controlar la exposición controlas igualmente la cantidad de granos que pueda tener la fotografía. En condiciones de poca luz mientras más sobrexpuesta sea la foto mayor cantidad será el ruido. En el proceso de edición un problema puede convertirse en un beneficio, ya que, al convertir la foto en blanco y negro, los granos le dan cierto nivel de misticismo a esta.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/floridita-larga-exposicion.jpg&quot; alt=&quot;Larga exposición del Floridita&quot; /&gt;
+	&lt;figcaption&gt;Las fotos de larga exposición siempre son atractivas.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Por último, puedes instalar alguna aplicación que te permita hacer fotos de larga exposición. En caso del iPhone puedes usar &lt;a href=&quot;https://itunes.apple.com/es/app/slow-shutter-cam/id357404131?mt=8&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Slow Shutter Cam&lt;/em&gt;&lt;/a&gt;, aunque en el Apple Store podrás encontrar otras aplicaciones relacionadas.&lt;/p&gt;
+
+&lt;section class=&quot;app-info&quot;&gt;
+	&lt;figure&gt;
+		&lt;img src=&quot;/img/apps/slowshuttercam.jpg&quot; alt=&quot;Slow Shutter Cam&quot; /&gt;
+	&lt;/figure&gt;
+	&lt;div class=&quot;app-data&quot;&gt;
+		&lt;h3 class=&quot;app-title&quot;&gt;Slow Shutter Cam&lt;/h3&gt;
+		&lt;small class=&quot;developer-name&quot;&gt;Por &lt;span&gt;Cogitap Software&lt;/span&gt;&lt;/small&gt;
+		&lt;span class=&quot;app-price&quot;&gt;$1.99&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;a href=&quot;https://itunes.apple.com/es/app/slow-shutter-cam/id357404131?mt=8&quot; target=&quot;_blank&quot; class=&quot;appstore-badge&quot;&gt;&lt;img src=&quot;/img/App_Store_Badge.png&quot; alt=&quot;App Store badge&quot; /&gt;&lt;/a&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/nightcap-pro/id754105884?mt=8&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Night Cap Pro&lt;/em&gt;&lt;/a&gt; es una aplicación desarrollada para iOS, específicamente para hacer fotos nocturnas, como esta existen otras que puedes buscar. Esta no es la guía definitiva, simplemente son técnicas que puedes aplicar, un punto de vista para darte una idea de lo que se puede lograr.&lt;/p&gt;
+
+&lt;section class=&quot;app-info&quot;&gt;
+	&lt;figure&gt;
+		&lt;img src=&quot;/img/apps/nightcap-camera.jpg&quot; alt=&quot;NightCap Camera&quot; /&gt;
+	&lt;/figure&gt;
+	&lt;div class=&quot;app-data&quot;&gt;
+		&lt;h3 class=&quot;app-title&quot;&gt;NightCap Camera&lt;/h3&gt;
+		&lt;small class=&quot;developer-name&quot;&gt;Por &lt;span&gt;Chris Wood&lt;/span&gt;&lt;/small&gt;
+		&lt;span class=&quot;app-price&quot;&gt;$1.99&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;a href=&quot;https://itunes.apple.com/app/nightcap-pro/id754105884?mt=8&quot; target=&quot;_blank&quot; class=&quot;appstore-badge&quot;&gt;&lt;img src=&quot;/img/App_Store_Badge.png&quot; alt=&quot;App Store badge&quot; /&gt;&lt;/a&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Por último, el Zoom no es recomendable usarse de día y mucho menos de noche. Al hacer la foto completa puedes usar una mayor cantidad de luz. En el proceso de edición puede ser recortada y se hará la misma función que la del zoom, solo que en esta ocasión la iluminación será mejor.&lt;/p&gt;
+</description>
+          <pubDate>2016-09-13T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/fotografia-nocturna-con-smartphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fotografia-nocturna-con-smartphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Lo nuevo de Apple para la fotografía con iPhone</title>
+          <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Nos vemos el 7&lt;/em&gt;&lt;/strong&gt;, así invitó Apple al mundo entero a que posara los ojos en el Bill Graham Civic Auditorium el 7 de septiembre para dar a conocer sus nuevos productos. Lo más esperado de esta presentación, el lanzamiento del iPhone 7 el cual hacía meses los rumores y las “filtraciones” formaban parte de los titulares de sitios web a nivel mundial. Como cada keynote de Apple esta sobre cumple la expectativa de muchos, deja que desear para otros, pero, para los que le gusta la fotografía con el iPhone esto fue lo que presentó.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/bill-graham-civic-auditorium.jpg&quot; alt=&quot;Bill Graham Civic Auditorium en San Francisco&quot; /&gt;
+	&lt;figcaption&gt;Bill Graham Civic Auditorium en San Francisco. (Foto publicada por Tim Cook en Twitter).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;apple-iphone-7-y-la-fotografía-móvil&quot;&gt;Apple, iPhone 7 y la fotografía móvil&lt;/h3&gt;
+
+&lt;p&gt;A las 11 de la mañana llegó el momento esperado, Tim Cook anunció en nuevo Smartphone de la compañía de la manzana. El nuevo iPhone, en esta ocasión denominado con el 7 para la versión de 4.7 pulgadas y 7 Plus para su versión de 5.5.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/iphone7-camara.jpg&quot; alt=&quot;Cámara del iPhone 7&quot; /&gt;
+	&lt;figcaption&gt;La lente del iPhone 7 está compuesta por seis elementos. &lt;em&gt;(Fotos tomadas del sitio web de Apple)&lt;/em&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Para la edición pequeña, el iPhone 7 tiene una cámara mejorada de un solo lente de 12 megapíxeles con estabilizador de imagen óptico, una mayor apertura de ƒ/1.8, la que permite un 50% más de luz sobre el lente, este último está compuesto de seis elementos. El flash de tono Es cierto que tiene un 50% más de luz con un nuevo sensor de parpadeo que puede compensar la iluminación artificial de cuatro LED. Se les suma a estas características que usar la cámara sea un 60% más rápido y use un 30% menos de energía.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/iphone7plus-dualcamera.jpg&quot; alt=&quot;iPhone 7 Plus con su doble cámara&quot; /&gt;
+	&lt;figcaption&gt;El iPhone 7 Plus posee dos cámaras una tiene un lente ancho de 28mm y el otro es un telefoto de 56mm &lt;em&gt;(Fotos tomadas del sitio web de Apple)&lt;/em&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;El iPhone 7 Plus posee dos cámaras de 12 megapíxeles cada una, lo que permite entre otras cosas una mejor resolución y menor ruido en fotografías con poca luz. En relación con la doble cámara, una tiene un lente ancho de 28mm (apertura ƒ/1.8) y el otro es un telefoto de 56mm (apertura ƒ/2.8), los cuales se pueden cambiar de forma activa entre ellos ya que trabajan independientemente. Posee un zoom óptico 2x, zoom digital de hasta 10x, así como la estabilización de imagen óptica. La doble cámara utiliza un mapa 3D para calcular distancias en la imagen y desenfocar el fondo y así crear un efecto bokeh. La cámara posee un zoom digital de hasta 10x. iPhone 7 Plus tiene una pantalla Retina de alta definición que es un 25% más brillante.&lt;/p&gt;
+
+&lt;p&gt;Resaltar también que el nuevo iPhone 7 tiene una cámara frontal FaceTime HD de 7 megapíxeles con una apertura de ƒ/2.2.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/iphone7-y-7plus.jpg&quot; alt=&quot;iPhone7 en sus diferentes colores&quot; /&gt;
+	&lt;figcaption&gt;Los nuevos iPhone son resistente al polvo y al agua e incluyen el negro brillante como nuevo color &lt;em&gt;(Fotos tomadas del sitio web de Apple)&lt;/em&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Por último, el iPhone 7 y iPhone 7 Plus tienen instalados un nuevo chip de 64-bit de cuatro núcleos A10 Fusion con un procesamiento 40% más rápido que el chip A9 en iPhone 6s y 2x más rápido que el chip de procesamiento A8 en los más antiguos iPhones. En cuanto a batería, esta dura dos horas más que la del iPhone 6s. Estos serán resistentes al polvo y al agua, nueva característica muy esperada en este dispositivo. Los colores serán 5 esta vez: dorado, negro mate, plateado, rosa dorado y negro brillante y la capacidad será de 32GB, 128GB Y 256GB. En cuanto a software este nuevo iPhone cuenta con iOS 10 (actualizable para versiones anteriores hasta el iPhone 5), anunciado meses antes.&lt;/p&gt;
+
+&lt;h3 id=&quot;video-de-presentación-del-iphone-7&quot;&gt;Video de presentación del iPhone 7&lt;/h3&gt;
+
+&lt;div class=&quot;vidcontainer&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Q6dsRpVyyWs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+          <pubDate>2016-09-07T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/lo-nuevo-de-apple-para-fotografia-con-iphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/lo-nuevo-de-apple-para-fotografia-con-iphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Etiqueta, organiza y selecciona tu mejor foto</title>
+          <description>&lt;p&gt;Finalmente, para los que hacen muchas fotos y luego no saben elegir cual es la mejor, ha llegado su solución. Tal y como dice el título, esa es la función principal de la aplicación &lt;strong&gt;TheRoll&lt;/strong&gt; desarrollada por &lt;a href=&quot;http://eyeem.com&quot; target=&quot;_blank&quot;&gt;EyeEm&lt;/a&gt;, la que muchos califican como la versión 2.0 del carrete o como debiera ser este.&lt;/p&gt;
+
+&lt;p&gt;Cada fotografía luego de ser analizada y puntuada muestra una serie de etiquetas muy útiles si planeas luego publicarla en la misma plataforma de EyeEm y aún más si planeas incluirla en la tienda de fotos de esta Red.&lt;/p&gt;
+
+&lt;p&gt;Pero eso no es todo, además posee un sistema de búsqueda basado en las etiquetas con las que, encontrar esa foto perdida que deseas publicar en las redes sociales ya no será un problema.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/pantallas-app-theroll.jpg&quot; alt=&quot;Aplicación TheRoll&quot; /&gt;
+	&lt;figcaption&gt;Capturas de pantalla de la aplicación TheRoll&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Si eres de los que usas Smartphone con sistema Android tienes que seguir esperando a que desarrollen para esta plataforma ya que actualmente la aplicación se encuentra disponible solo para iOS.&lt;/p&gt;
+
+&lt;blockquote class=&quot;info-alert&quot;&gt;
+	El pasado Diciembre (2016) &lt;em&gt;EyeEm&lt;/em&gt; anunció que la aplicación sería descontinuada y todas sus característica integradas a la propia aplicacion de ellos la cúal tiene el mismo nombre que la compañía. Solo falta esperar a que esta actualización salga para seguir usando estas opciones.
+&lt;/blockquote&gt;
+
+&lt;p&gt;¿Probaste esta aplicación alguna vez? Comenta que te pareció.&lt;/p&gt;
+</description>
+          <pubDate>2016-06-13T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/theroll-etiqueta-organiza-selecciona-mejor-foto</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Las fotos día a día con tu iPhone</title>
+          <description>&lt;p&gt;A pesar que otros Smartphones poseen una mayor cantidad de megapíxeles en sus cámaras, el iPhone ha sabido imponerse como el dispositivo más utilizado para hacer fotos en sitios como &lt;a href=&quot;http://flickr.com&quot; target=&quot;_blank&quot;&gt;Flickr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lograr buenas fotografías no requiere invertir en un costoso equipo fotográfico y si conoces a fondo tu iPhone serás capaz de obtener un producto fotográfico increíble.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La cámara del iPhone siempre estará en tu bolsillo por lo que será tu principal opción para capturar las fotos diariamente. Conócela a fondo, todas sus características, atajos y opciones.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lo que dice una foto es más importante a cómo fue creada. No te preocupes por la técnica o los recursos empleados siempre y cuando al final la foto cuente una historia.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si realizas una fotografía de un lugar o un objeto en especial y el resultado obtenido no es el deseado, busca otro punto de vista, define el foco, la exposición y controla el balance blanco. Si todo esto aún no te convence prueba hacer la foto en diferentes horas del día o estaciones del año.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La práctica diaria y la experimentación llevan a la perfección, no dejes de hacer fotos todos los días, incluso aquello que pensabas que no proporcionaría ninguna historia puede sorprenderte.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Haz uso de las buenas prácticas de la composición, pero como todas las reglas estas también se hicieron para romperse. Crea tu propio estilo y disfruta la fotografía.&lt;/p&gt;
+</description>
+          <pubDate>2016-06-06T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/fotos-dia-dia-con-iphone</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/fotos-dia-dia-con-iphone</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Tips para hacer fotos en Cuba</title>
+          <description>&lt;p&gt;Cuba está ahora más de moda que antes y al parecer todo el mundo, o casi todos quieren visitarla. El Papa de la Iglesia Católica, El Presidente de los Estados Unidos, los legendarios Rolling Stones, Channel, incluso Michael Bay y sus Transformes entre otros, han hecho su estancia en esta isla tropical. Si está en tus planes incluirte en esta lista y te interesa la fotografía, aquí tienes algunos puntos que puedes tener en cuenta.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/entrada-bar-floridita.jpg&quot; alt=&quot;Entrada del Restaurante - Bar Floridita&quot; /&gt;
+	&lt;figcaption&gt;El Restaurante - Bar &quot;Floridita&quot;, figura entre los lugares más visitados de La Habana.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Lo primero que debes tener en mente y para que tu estancia sea más placentera es recordar que como isla tropical al fin las temperaturas son altas y el sol es bastante fuerte, por lo que asegúrate de incluir en tu kit fotográfico: sombrero o gorra de béisbol, gafas de sol, ropa que te cubra sin ser esta calurosa y zapatos cómodos que respiren y que te permitan caminar largos trechos, pues si quieres lograr estupendas fotos, tendrás que desandar las viejas calles de Cuba.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/calle-habana.jpg&quot; alt=&quot;Calle de La Habana Vieja&quot; /&gt;
+	&lt;figcaption&gt;Calles empedradas y paredes de colores conforman las zonas históricas en Cuba.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Las plazas, las calles estrechas, los edificios viejos, los negocios, y los cubanos en sí, son temas que encontrarás en lugares como La Habana Vieja o la ciudad de Trinidad en Sancti Spíritus. Las zonas históricas de cualquier villa fundada en Cuba por los españoles en el siglo XVI se convierten en espacios ricos para la fotografía. Si estas fotos además las haces (o conviertes) en blanco y negro, aumentarás mucho más su impacto.&lt;/p&gt;
+
+&lt;p&gt;La vida nocturna en Cuba, principalmente en La Habana es muy rica, por lo que genera una gran cantidad de fotografías. Recuerda que para fotos con poca iluminación es primordial realizarlas con un trípode.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/auto-clasico-noche.jpg&quot; alt=&quot;Auto clasico en La Habana de noche&quot; /&gt;
+	&lt;figcaption&gt;Para lograr fotos de noche bien nítidas es esencial el uso de un trípode.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;No importa donde vayas en Cuba, la mayoría de las veces encontrarás algo interesante que fotografiar, y si visitas un restaurant privado o “paladar” como también se le conoce, además de disfrutar de la auténtica cocina cubana, comprobarás que la atmósfera en estos lugares es muy interesante para hacer fotos.&lt;/p&gt;
+
+&lt;p&gt;En las playas cuida la exposición de tus fotos, al ser lugares con mucha luz, esta puede exceder el rango dinámico de tu cámara en caso que uses un iPhone o cualquier otro Smartphone. Si usas uno de estos últimos dispositivos, ajusta primero el foco y luego la exposición.&lt;/p&gt;
+
+&lt;p&gt;Capturar el estilo de vida de los cubanos, los colores, texturas, construcciones (antiguas y modernas) las personas que habitan, incluso todo mezclado, te proporcionará una gran cantidad de fotos. Por lo tanto, asegúrate traer un dispositivo de almacenamiento lo suficientemente grande donde puedas realizar salvas de cada día de fotos y así no tener que borrar alguna fotografía. Incluye en tu equipaje una laptop o un MacBook para poder descargar cada noche las fotos hechas. Puedes agregar también un disco duro externo para aumentar tu espacio de almacenamiento, así como un cargador portátil.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/img/post/estilo-vida-cuba.jpg&quot; alt=&quot;Auto clasico en La Habana de noche&quot; /&gt;
+	&lt;figcaption&gt;El estilo de vida de los cubanos proporciona gran cantidad de temas para fotografiar.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A la hora de recargar batería, la mayoría de las tomas de corriente son de 110 volt, algo que debes tener presente si tus equipos usan 220 volt.&lt;/p&gt;
+
+&lt;p&gt;Ya que la mayoría del tiempo estarás sin conexión a Internet puedes instalar en tu iPhone aplicaciones de mapas offline como &lt;a href=&quot;http://maps.me&quot; target=&quot;_blank&quot;&gt;Maps.me&lt;/a&gt; con el cual podrás buscar diferentes lugares de interés.&lt;/p&gt;
+
+&lt;section class=&quot;app-info&quot;&gt;
+	&lt;figure&gt;
+		&lt;img src=&quot;/img/apps/maps.me.jpg&quot; alt=&quot;Maps.me&quot; /&gt;
+	&lt;/figure&gt;
+	&lt;div class=&quot;app-data&quot;&gt;
+		&lt;h3 class=&quot;app-title&quot;&gt;MAPS.ME&lt;/h3&gt;
+		&lt;small class=&quot;developer-name&quot;&gt;Por &lt;span&gt;MY COM&lt;/span&gt;&lt;/small&gt;
+		&lt;span class=&quot;app-price&quot;&gt;Gratis&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;a href=&quot;https://itunes.apple.com/app/maps-me-offline-map-nav/id510623322?mt=8&quot; target=&quot;_blank&quot; class=&quot;appstore-badge&quot;&gt;&lt;img src=&quot;/img/App_Store_Badge.png&quot; alt=&quot;App Store badge&quot; /&gt;&lt;/a&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Por último, si quieres publicar en Internet algunas de las fotos que vayas haciendo, podrás hacerlo (si deseas hacerlo durante el trayecto) conectándote a &lt;strong&gt;WIFI_ETECSA&lt;/strong&gt;, una conexión que brinda &lt;em&gt;ETECSA&lt;/em&gt; en los principales parques y zonas de Cuba. Para conectarte deberás adquirir un cupón con un usuario y contraseña con un tiempo de una a cinco horas de conexión cada uno de estos. Vale aclarar que este será válido mientras no se consuma todo el tiempo y podrá utilizarse en cualquier punto de acceso del país.&lt;/p&gt;
+</description>
+          <pubDate>2016-05-30T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/tips-fotografia-en-cuba</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/tips-fotografia-en-cuba</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Una guía para ir de cero a héroe en la fotografía móvil</title>
+          <description>&lt;p&gt;La fotografía con Smartphone lleva desde hace unos años cautivando cada vez más seguidores, y es que la velocidad con que se hace las fotos, se editan y se publican en Internet con estos dispositivos, le ha quitado terreno a las cámaras DSLR. Además, estos dispositivos le permiten tanto a hombres, mujeres o niños, experimentar la fotografía por si mismo.&lt;/p&gt;
+
+&lt;p&gt;Todo este proceso fotográfico es bien sencillo, cualquiera puede hacer fotos… pero si quieres que tu trabajo destaque sobre los demás, lo simple puede tornarse “complejo”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;iPhoneografía paso a paso&lt;/strong&gt;, una guía en la que conocerás más a fondo la aplicación Cámara que trae instalado el iPhone, con trucos que quizás no conocías y técnicas con las que tus fotos serán más atractivas que antes. Fundamentos básicos de la fotografía, uso de diferentes aplicaciones cámaras con nuevas características, así como el uso de editores de fotos dentro del mismo iPhone, la utilización de accesorios y otros contenidos son abarcados en este libro.&lt;/p&gt;
+
+&lt;p&gt;Aunque como dispositivo principal se use un iPhone, también para los usuarios de Android, las técnicas y conceptos explicados aquí pueden ser usados, así como algunas de las aplicaciones que se mencionan existen para ese sistema operativo.&lt;/p&gt;
+
+&lt;p&gt;Este libro es para aquel que le gusta la fotografía en sí, en especial para aquello que han convertido su iPhone en su principal herramienta fotográfica, tanto para tomar las fotos como para editarlas.&lt;/p&gt;
+
+&lt;p&gt;El objetivo del libro es abarcar la mayor cantidad de contenido que al ser aplicados se logren fotos de calidad. En este se dará a conocer la manera aprovechar cada parte de la cámara nativa del iPhone, así como fundamentos básicos de la fotografía, uso de diferentes aplicaciones de captura para el remplazo de la cámara nativa, editores de fotos, la utilización de accesorios, así como buenas prácticas.&lt;/p&gt;
+
+&lt;p&gt;Si te interesa este libro puedes adquirirlo GRATIS &lt;a href=&quot;http://bit.ly/fotosconiphone&quot; target=&quot;_blank&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+          <pubDate>2016-05-21T00:00:00-04:00</pubDate>
+          <link>http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil</link>
+          <guid isPermaLink="true">http://wilberzada.com/blog/guia-cero-a-heroe-fotografia-movil</guid>
+        </item>
+      
+    
+  </channel>
+</rss>
