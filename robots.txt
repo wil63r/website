@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Allow: /
+
+Sitemap: http://wilberzada.com/sitemap.xml
